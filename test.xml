@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<inflection-patterns-base>
+	<inflection-pattern-definition>
+		<pattern-code>*nie *nia *niach *niami *niem *niom *niu *ń</pattern-code>
+		<pattern>
+			<form-pattern>
+				<affixes>*nie</affixes>
+				<grammatical-properties-list>
+					<grammatical-properties-mark>subst:sg:nom.acc.voc:n</grammatical-properties-mark>
+				</grammatical-properties-list>
+			</form-pattern>
+			<form-pattern>
+				<affixes>*nia</affixes>
+				<grammatical-properties-list>
+					<grammatical-properties-mark>subst:sg:gen:n</grammatical-properties-mark>
+					<grammatical-properties-mark>subst:pl:nom.acc.voc:n</grammatical-properties-mark>
+				</grammatical-properties-list>
+			</form-pattern>
+			<form-pattern>
+				<affixes>*niach</affixes>
+				<grammatical-properties-list>
+					<grammatical-properties-mark>subst:pl:loc:n</grammatical-properties-mark>
+				</grammatical-properties-list>
+			</form-pattern>
+			<form-pattern>
+				<affixes>*niami</affixes>
+				<grammatical-properties-list>
+					<grammatical-properties-mark>subst:pl:inst:n</grammatical-properties-mark>
+				</grammatical-properties-list>
+			</form-pattern>
+			<form-pattern>
+				<affixes>*niem</affixes>
+				<grammatical-properties-list>
+					<grammatical-properties-mark>subst:sg:inst:n</grammatical-properties-mark>
+				</grammatical-properties-list>
+			</form-pattern>
+			<form-pattern>
+				<affixes>*niom</affixes>
+				<grammatical-properties-list>
+					<grammatical-properties-mark>subst:pl:dat:n</grammatical-properties-mark>
+				</grammatical-properties-list>
+			</form-pattern>
+			<form-pattern>
+				<affixes>*niu</affixes>
+				<grammatical-properties-list>
+					<grammatical-properties-mark>subst:sg:dat.loc:n</grammatical-properties-mark>
+				</grammatical-properties-list>
+			</form-pattern>
+			<form-pattern>
+				<affixes>*ń</affixes>
+				<grammatical-properties-list>
+					<grammatical-properties-mark>subst:pl:gen:n</grammatical-properties-mark>
+				</grammatical-properties-list>
+			</form-pattern>
+		</pattern>
+		<cores>niewyekspediowa* nieprzystrzyże* nieskalibrowa* niepowarze* nienatłucze* ..... </cores>
+		<covered-patterns>
+			<covered-pattern>
+				<pattern-code>*nie *nia *niach *niami *niem *niom *niu *ń</pattern-code>
+			</covered-pattern>
+		</covered-patterns>
+	</inflection-pattern-definition>
+	<inflection-pattern-definition>
+		<pattern-code>*y *a *e *ego *ej *emu *i *ych *ym *ymi *ą nie*a nie*e nie*ego nie*ej nie*emu nie*i nie*y nie*ych nie*ym nie*ymi nie*ą</pattern-code>
+		<pattern>
+			<form-pattern>
+				<affixes>*y</affixes>
+				<grammatical-properties-list>
+					<grammatical-properties-mark>adj:sg:nom.acc:m:pos:aff</grammatical-properties-mark>
+					<grammatical-properties-mark>adj:sg:nom.voc:m:pos:aff</grammatical-properties-mark>
+				</grammatical-properties-list>
+			</form-pattern>
+			<form-pattern>
+				<affixes>*a</affixes>
+				<grammatical-properties-list>
+					<grammatical-properties-mark>adj:sg:nom.voc:f:pos:aff</grammatical-properties-mark>
+				</grammatical-properties-list>
+			</form-pattern>
+			
+			.....
+			
+		</pattern>
+		<cores>*mentolow* *rozgraniczeniow* *adypinow* *pastorałkow* *oczeretow* *ośmiopromienn* ....... </cores>
+		<covered-patterns>
+			<covered-pattern>
+				<pattern-code>*y *a *e *ego *ej *emu *i *ych *ym *ymi *ą nie*a nie*e nie*ego nie*ej nie*emu nie*i nie*y nie*ych nie*ym nie*ymi nie*ą</pattern-code>
+			</covered-pattern>
+		</covered-patterns>
+	</inflection-pattern-definition>
+	
+	.....
+</inflection-patterns-base>
+
