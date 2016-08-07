@@ -1,0 +1,134 @@
+Prezentacja antygenu – termin obejmuj¹cy znaczeniem mechanizmy odpornoœciowe, które polegaj¹ na "ukazaniu" antygenu limfocytom T przy udziale cz¹steczek MHC. G³ównym celem prezentacji antygenów jest rozwiniêcie odpowiedzi swoistej na dany antygen. Charakterystyczne jest to, ¿e antygeny nie s¹ przedstawiane w formie natywnej, lecz przetworzonej.
+
+Ze wzglêdu na zró¿nicowanie cz¹steczek MHC, prezentacja antygenu mo¿e siê przejawiaæ w jednej z trzech postaci:
+cz¹steczki MHC klasy I, które prezentuj¹ antygeny limfocytom Tc (cytotoksycznym), bior¹ udzia³ w obronie przeciwko patogenom wewn¹trzkomórkowym, np. wirusom. Je¿eli taki antygen zostanie rozpoznany jako obcy, komórka prezentuj¹ca bêdzie zabita, jego obecnoœæ na cz¹steczce MHC klasy I œwiadczy bowiem o istnieniu patogenu we wnêtrzu komórki. Zabijaj¹c komórkê, limfocyt Tc zabija zwykle tak¿e wystêpuj¹cego w niej paso¿yta. Mo¿na powiedzieæ, ¿e w ten sposób jednostka (komórka) jest poœwiêcana dla dobra ogó³u (organizmu).
+cz¹steczki MHC klasy II, które prezentuj¹ antygeny limfocytom Th (pomocniczym), nie wywo³uj¹ œmierci komórki prezentuj¹cej antygen. W tym przypadku taka komórka rozpoczyna wydzielanie cytokin, które pobudzaj¹ limfocyt Th. Limfocyty Th s¹ istotnymi komórkami reguluj¹cymi odpowiedŸ odpornoœciow¹. Dziêki temu cz¹steczki MHC klasy II uczestnicz¹ w pobudzeniu innych komórek, za poœrednictwem limfocytów T pomocniczych.
+prezentacja krzy¿owa jest mechanizmem umo¿liwiaj¹cym pobudzenie zarówno limfocytów Th, jak i limfocytów Tc, przy czym bior¹ w niej udzia³ zarówno cz¹steczki MHC klasy I, jak i klasy II. Nie jest to jednak prosta kombinacja dwóch poprzednio wymienionych rodzajów prezentacji antygenu. Zachodzi ona w charakterystyczny sposób z udzia³em okreœlonych komórek, które prezentuj¹ antygeny jednoczeœnie na MHC obu klas i nie s¹ zabijane przez limfocyty Tc.
+
+Szczegó³y prezentacji antygenów s¹ przedstawione w kolejnych punktach. Zupe³nie nietypowo zostanie, z braku lepszej alternatywy oraz z powodu wygody, potraktowany termin komórka prezentuj¹ca antygen. Bêdzie on oznacza³ komórkê, która dokonuje prezentacji antygenu limfocytom T poprzez bia³ka MHC klasy I lub klasy II. Pamiêtaæ nale¿y, ¿e w sensie œcis³ym (i prawdê mówi¹c jedynym prawid³owym) termin ten oznacza jedynie komórki, które wykazuj¹ na swojej powierzchni obecnoœæ cz¹steczek MHC klasy II i cz¹steczek tzw. drugiego sygna³u. Szerzej jest to dyskutowane w artykule komórka prezentuj¹ca antygen.Spis treœci [ukryj]
+1 Prezentacja antygenu poprzez MHC klasy I 
+1.1 Obróbka antygenu
+1.2 Przebieg prezentacji z udzia³em MHC klasy I
+1.3 Znaczenie prezentacji z udzia³em MHC klasy I
+2 Prezentacja antygenu poprzez MHC klasy II 
+2.1 Obróbka antygenu
+2.2 Przebieg prezentacji 
+2.2.1 Koncepcja drugiego sygna³u
+2.3 Znaczenie prezentacji z udzia³em MHC klasy II
+3 Prezentacja krzy¿owa
+4 Bibliografia
+5 Zobacz te¿
+
+
+Prezentacja antygenu poprzez MHC klasy I [edytuj]
+
+Obróbka antygenu [edytuj]
+
+Ze wzglêdu na fakt, ¿e antygeny prezentowane przez bia³ka MHC nie s¹ kompletne, lecz stanowi¹ fragmenty natywnych antygenów, musz¹ one najpierw podlegaæ odpowiedniej obróbce. W przypadku bia³ek MHC klasy I prezentowane s¹ antygeny wewn¹trzkomórkowe, a na ich przetwarzanie sk³adaj¹ siê nastêpuj¹ce kroki:
+Bia³ka, które maj¹ podlegaæ obróbce, s¹ najpierw "oznaczane" za pomoc¹ ubikwityny (mechanizm ten nazywamy ubikwitynacj¹, ale trzeba tutaj zaznaczyæ, ¿e jego znaczenie jest szersze, ni¿ tylko udzia³ w prezentacji antygenu)
+Ubikwitynowane bia³ko trafia do proteasomu, multienzymatycznego kompleksu, który dokonuje ciêcia bia³ek na pojedyncze peptydy
+Powsta³e w wyniku dzia³alnoœci proteasomu peptydy s¹ transportowane do siateczki œródplazmatycznej (ER) przez specjalne bia³ka transportowe z rodziny transporterów ABC. W tym miejscu mamy do czynienia z pewn¹ wybiórczoœci¹ peptydów, co jest zwi¹zane z w³aœciwoœciami bia³ek MHC klasy I. Mog¹ one bowiem prezentowaæ jedynie peptydy o d³ugoœci nie przekraczaj¹cej ok. 10 aminokwasów, dlatego d³u¿sze peptydy zwykle nie s¹ transportowane do ER
+Gdy peptyd dostanie siê do ER, trafia do rowka cz¹steczki MHC klasy I (zobacz: g³ówny uk³ad zgodnoœci tkankowej)
+Cz¹steczka MHC, wraz z fragmentem antygenu, przechodzi przez aparat Golgiego, gdzie podlega glikozylacji, po czym trafia na powierzchniê komórki. Od tej pory kompleks MHC klasy I z peptydem mo¿e byæ rozpoznawany.
+ 
+Obróbka antygenu dla MHC klasy I
+A. Bia³ko
+B. Proteasom
+C. Synteza bia³ek MHC I
+D. Peptydy do prezentacji
+E. ER
+F. B³ona komórkowa
+Cyfry na rysunku odpowiadaj¹ oznaczeniom kolejnych kroków w przedstawionym powy¿ej opisie.
+
+Przebieg prezentacji z udzia³em MHC klasy I [edytuj]
+
+Kiedy przetworzony antygen znajdzie siê na powierzchni komórki, mo¿e byæ rozpoznawany przez limfocyty Tc, a œciœlej mówi¹c przez komórki TCR CD8+ (czyli takie limfocyty T, na których powierzchni znajduje siê cz¹steczka CD8). Jeœli prezentowany antygen oka¿e siê obcy dla organizmu, komórka prezentuj¹ca go limfocytowi T CD8+ zostanie zabita.
+
+Znaczenie prezentacji z udzia³em MHC klasy I [edytuj]
+
+Prezentacja z udzia³em MHC klasy I ma istotne znaczenie w odpornoœci przeciwko patogenom wewn¹trzkomórkowym. Wynika to z faktu, ¿e bia³ka patogenów, które znajduj¹ siê w komórce, s¹ ubikwitynowane i ciête na fragmenty tak samo, jak w³asne bia³ka komórki. W ten sposób patogen nie mo¿e ukryæ siê we wnêtrzu komórki w celu oszukania uk³adu odpornoœciowego. Nie jest on wprawdzie osi¹galny dla przeciwcia³, ale limfocyty Tc s¹ czêsto wystarczaj¹co siln¹ broni¹, powstrzymuj¹c¹ rozwój choroby. Ma to du¿e znaczenie w przypadku wirusów, gdy¿ czêsto przestawiaj¹ one syntezê bia³ek w komórce na swoje potrzeby. Znaczny odsetek bia³ek wewn¹trzkomórkowych stanowi¹ wiêc bia³ka wirusowe, dlatego bêd¹ siê one w du¿ych iloœciach pojawiaæ na komórce w postaci kompleksów z MHC klasy I.
+
+Nie oznacza to jednak, ¿e limfocyty Tc dziêki rozpoznaniu kompleksu antygenu z cz¹steczk¹ MHC klasy I zawsze bêd¹ w stanie ograniczyæ zaka¿enie. Wraz z zabiciem komórki docelowej mo¿e dojœæ do uwolnienia np. potomnych wirusów z jej wnêtrza. Dlatego te¿, zw³aszcza na póŸniejszym etapie odpowiedzi przeciwwirusowej, przeciwcia³a okazuj¹ siê odgrywaæ niezwykle istotn¹ rolê.
+
+O znaczeniu odpowiedzi na obce antygeny prezentowane przez cz¹steczki MHC klasy I œwiadczy fakt, ¿e wiele patogenów wewn¹trzkomórkowych stara siê wp³yn¹æ ma ich ekspresjê albo poprzez jej ograniczenie, albo przez zamianê cz¹steczek MHC klasy I na inne, podobne bia³ka, ale nierozpoznawane przez limfocyty Tc. Wtedy jednak mog¹ zadzia³aæ komórki NK, zabijaj¹ce takie komórki j¹drzaste, które wykazuj¹ niewielkie powierzchniowe stê¿enie bia³ek MHC klasy I.
+
+Prezentacja antygenu poprzez MHC klasy II [edytuj]
+
+Obróbka antygenu [edytuj]
+
+Prezentacja antygenu przez MHC klasy II dotyczy jedynie antygenów egzogennych (z punktu widzenia komórki, niekoniecznie zaœ organizmu), a wiêc takich, które s¹ poch³aniane przez komórkê prezentuj¹c¹ antygen. Poch³oniêcie antygenu jest mo¿liwe dziêki istnieniu ró¿nych receptorów i czêsto zachodzi na drodze immunofagocytozy z udzia³em opsonin. Tak¿e w tym przypadku nie nastêpuje prezentacja natywnych bia³ek - musz¹ one najpierw ulec przeróbce i po³¹czeniu z bia³kiem MHC klasy II. Kolejne kroki takiej obróbki s¹ nastêpuj¹ce:
+Antygen podlega endocytozie, przy czym mo¿e to byæ fagocytoza lub pinocytoza
+W wyniku poch³oniêcia powstaje endosom zawieraj¹cy antygen. Na skutek dzia³ania pomp protonowych w b³onie endosomu nastêpuje stopniowe obni¿anie jego pH.
+Endosom, zwany tak¿e fagosomem, ³¹czy siê z lizosomem, tworz¹c w rezultacie fagolizosom. Dziêki dostarczeniu enzymów trawiennych przez lizosom, antygen jest stopniowo rozk³adany, przy czym bia³ka przekszta³cane s¹ w odpowiedniej d³ugoœci peptydy.
+ 
+Obróbka antygenu dla MHC klasy II
+A Obce bia³ko
+B Endosom
+C Lizosom
+D PóŸny endosom/Fagolizosom
+E Szorstkie ER
+F Aparat Golgiego
+G Wymiana CLIP na antygen
+H Prezentacja antygenu na b³onie komórkowej.
+
+W ten sposób antygen zostaje przygotowany do po³¹czenia siê z cz¹steczk¹ MHC klasy II. Jednak¿e równie¿ bia³ka MHC musz¹ zostaæ odpowiednio przysposobione do po³¹czenia siê z antygenem. Dzieje siê to w nastêpuj¹cy sposób:
+W wyniku ekspresji genów dla bia³ek MHC klasy II i syntezy bia³ek na szorstkim retikulum endoplazmatycznym dochodzi do umiejscowienia ³añcuchów bia³kowych tworz¹cych cz¹steczkê MHC w obrêbie siateczki œródplazmatycznej
+Jeszcze w retikulum dochodzi do przy³¹czenia siê w rowku cz¹steczki MHC tzw. ³añcucha niezmiennego (Ii), którego g³ówne zadanie polega na zablokowaniu rowka przed przy³¹czeniem jakiegoœ innego, przypadkowego peptydu obecnego w siateczce œródplazmatycznej
+Cz¹steczka MHC przechodzi nastêpnie przez aparat Golgiego, gdzie nastêpuje jej glikozylacja oraz przyciêcie ³añcucha niezmiennego do peptydu okreœlanego nazw¹ CLIP (¿ó³ta gwiazdka na schemacie)
+Uwolnione w pêcherzyku pochodz¹cym z aparatu Golgiego cz¹steczki MHC klasy II docieraj¹ do endosomu zawieraj¹cego fragmenty antygenu.
+
+W tym momencie peptyd CLIP z rowka cz¹steczki MHC klasy II jest zastêpowany peptydem pochodz¹cym z antygenu. Pomocnicz¹ rolê odgrywaj¹ tutaj nieklasyczne cz¹steczki MHC klasy II: HLA-DO i HLA-DM. Teraz pozostaje ju¿ tylko transport kompleksów peptyd-MHC klasy II na powierzchniê komórki, co ju¿ niemal¿e umo¿liwia prezentacjê (patrz te¿ dalej: koncepcja drugiego sygna³u).
+
+Przebieg prezentacji [edytuj]
+
+G³ównym zadaniem prezentacji antygenu przez MHC klasy II jest rozwiniêcie swoistej odpowiedzi odpornoœciowej. Podstaw¹ jest wiêc oddzia³ywanie komórki prezentuj¹cej antygen z limfocytem T pomocniczym. Ka¿dy taki limfocyt mo¿e swoiœcie rozpoznawaæ antygeny prezentowane przez cz¹steczkê MHC klasy II za pomoc¹ receptorów (TCR) znajduj¹cych siê na powierzchni komórki. TCR nie odró¿nia jednak klasy MHC, dlatego niezbêdne jest bia³ko koreceptorowe, dokonuj¹ce takiego rozró¿nienia, którym w przypadku limfocytów Th jest zwykle cz¹steczka CD4 (dlatego limfocyty te okreœlamy mianem komórek T CD4+). Takie podwójne oddzia³ywanie pozwala ju¿ rozpoznaæ antygen, jednak do pobudzenia niezbêdny jest jeszcze tzw. drugi sygna³ (zagadnienie to zosta³o przedstawione dalej). Je¿eli jest obecny zarówno pierwszy (TCR), jak i drugi sygna³, dojdzie do pobudzenia limfocytu Th, w wyniku czego przechodzi on transformacjê blastyczn¹. Jednoczeœnie limfocyt wydziela cytokiny pobudzaj¹ce komórkê prezentuj¹c¹ antygen do bardziej efektywnego aktywowania kolejnych limfocytów T. Jest to mo¿liwe dziêki wydzielaniu odpowiednich cytokin przez komórkê prezentuj¹c¹ antygen oraz zwiêkszeniu ekspresji MHC klasy II i cz¹steczek drugiego sygna³u.
+
+Konsekwencj¹ przedstawionego procesu jest selekcja klonalna limfocytów Th, ale sama w sobie nie jest ona jeszcze nic warta. Pobudzone limfocyty Th musz¹ teraz aktywowaæ inne komórki, które bêd¹ pe³niæ funkcje efektorowe, a wiêc pomog¹ ograniczyæ lub ca³kowicie usun¹æ infekcjê. Wybór odpowiednich komórek nastêpuje zwykle poprzez odpowiednie spolaryzowanie odpowiedzi odpornoœciowej. W wyniku polaryzacji dochodzi do wytworzenia limfocytów Th1 i Th2, przy czym:
+limfocyty Th1 wydzielaj¹ cytokiny bior¹ce udzia³ w rozwijaniu odpowiedzi komórkowej
+limfocyty Th2 wspieraj¹ odpowiedŸ humoraln¹
+
+Na uwagê zas³uguje funkcja limfocytów Th2, które oddzia³uj¹ bezpoœrednio na limfocyty B, doprowadzaj¹c z kolei do selekcji klonalnej tych komórek. Dzia³anie limfocytów Th2 polega na tym, ¿e rozpoznaj¹ one MHC klasy II na limfocycie B, przy czym limfocyty B prezentuj¹ te antygeny, które same mog¹ rozpoznawaæ. W ten sposób kooperacja miêdzy limfocytem Th i komórk¹ prezentuj¹c¹ antygen pozwala nastêpnie pobudziæ swoiste limfocyty B.
+ 
+Prezentacja antygenu
+1. Obce bia³ko/antygen
+2. Makrofag/Komórka prezentuj¹ca antygen
+3. Kompleks antygen-MHC II (prezentacja antygenu), aktywacja limfocytu Th
+4. Limfocyt Th (T helper)
+5. Obce bia³ko zwi¹zane przez przeciwcia³a powierzchniowe
+6. Limfocyt B
+7. Przetwarzanie antygenu (MHC II)
+8. Kompleks antygen-MHC II (prezentacja antygenu)
+9. Produkcja przeciwcia³ specyficznych wobec antygenu
+10. Aktywacja limfocytu B przez aktywny Th
+
+W rzeczywistoœci rola limfocytów Th jest o wiele szersza, ale w ka¿dym z mo¿liwych mechanizmów ich dzia³ania podstawow¹, pierwotn¹ rolê odgrywa prezentacja antygenu przez komórkê prezentuj¹c¹ antygen.
+
+Koncepcja drugiego sygna³u [edytuj]
+
+Drugi sygna³ to pojêcie, oznaczaj¹ce dodatkowe, oprócz TCR, cz¹steczki, mog¹ce przekazywaæ sygna³ do wnêtrza komórki w wyniku po³¹czenia siê z odpowiednimi ligandami. Cz¹steczki drugiego sygna³u s¹ niezbêdne do pobudzenia limfocytu Th. Wystêpuj¹ one, gdy komórka prezentuj¹ca antygen "uznaje" go za niebezpieczny dla organizmu (teoria niebezpieczeñstwa). Brak cz¹steczek drugiego sygna³u œwiadczy natomiast o tym, ¿e dany antygen nie jest niebezpieczny, a wrêcz jego zaatakowanie mo¿e okazaæ siê szkodliwe dla organizmu. Dlatego w przypadku, gdy danemu antygenowi, który jest rozpoznawany przez limfocyt Th, nie towarzyszy drugi sygna³, mo¿e dojœæ do dwóch podstawowych zjawisk:
+anergii klonalnej, która polega na zatrzymaniu funkcjonowania limfocytu Th na okres kilku miesiêcy. W tym czasie nie mo¿e on byæ aktywowana przez ¿aden sygna³
+delecji klonalnej, w wyniku której dany klon limfocytów Th ulega œmierci na skutek apoptozy
+
+Obydwa powy¿sze zjawiska maj¹ du¿e znaczenie w utrzymaniu autotolerancji, czyli areaktywnoœci na w³asne antygeny danego organizmu. Zagadnienia te szerzej s¹ przedstawione w haœle tolerancja immunologiczna.
+
+Najwa¿niejszymi cz¹steczkami, funkcjonuj¹cymi jako drugi sygna³, s¹:
+CD28 na limfocycie Th, która ³¹czy siê z CD80 lub CD86 na komórce prezentuj¹cej antygen
+OX40 na limfocycie, której ligandem jest OX40L
+CD40L na limfocycie, ³¹cz¹ca siê z CD40 na komórce prezentuj¹cej antygen
+
+Zw³aszcza oddzia³ywanie CD28 - CD80/CD86 jest szczególnie istotne, tym bardziej, ¿e po aktywacji limfocytu Th na jego powierzchni pojawia siê cz¹steczka CTLA-4. Ona tak¿e ³¹czy siê z CD80/CD86, ale przesy³a sygna³ hamuj¹cy, a nie aktywuj¹cy komórkê. Widaæ wiêc, ¿e drugi sygna³ mo¿e mieæ odmienny wp³yw, w zale¿noœci od stopnia rozwoju odpowiedzi odpornoœciowej. O ile pierwszy sygna³ siê nie zmienia, o tyle drugi mo¿e, dziêki dostosowaniu siê do panuj¹cych warunków, wykazywaæ silne w³aœciwoœci moduluj¹ce odpowiedŸ odpornoœciow¹.
+
+Znaczenie prezentacji z udzia³em MHC klasy II [edytuj]
+
+Prezentacja antygenu poprzez MHC klasy II, jak ju¿ przestawiono powy¿ej, ma olbrzymie znaczenie w rozwoju odpornoœci swoistej. Stanowi¹c podstawê selekcji klonalnej limfocytów Th, mechanizm ten jest istotny przede wszystkim jako pocz¹tkowy etap doboru mechanizmów efektorowych, umo¿liwiaj¹cych usuniêcie danego patogenu. Ze wzglêdu na zró¿nicowanie komórek prezentuj¹cych antygen, wybór tych mechanizmów wydaje siê byæ bardzo œciœle regulowany, natomiast jego zaburzenia doprowadzaæ mog¹ do ró¿nych patologii, np. chorób autoimmunizacyjnych. W zwi¹zku z tym nie do przecenienia jest rola prezentacji antygenów z udzia³em MHC klasy II w utrzymaniu homeostazy organizmu.
+
+Prezentacja krzy¿owa [edytuj]
+
+Krzy¿owa prezentacja antygenu jest zjawiskiem poznanym stosunkowo niedawno, a jej rola w odpornoœci jest wci¹¿ szeroko dyskutowana, chocia¿by ze wzglêdu na jej potencjalne znaczenie terapeutyczne. W prezentacji krzy¿owej udzia³ bior¹ w zarówno limfocyty Tc, jak i limfocyty Th. Celem tego procesu jest pobudzenie limfocytów Tc do zwalczania patogenów wewn¹trzkomórkowych, zaœ komórkami prezentuj¹cymi antygen, bior¹cymi udzia³ w prezentacji krzy¿owej, s¹ komórki dendrytyczne. Ogólny zarys prezentacji krzy¿owej mo¿na przedstawiæ w nastêpuj¹cych punktach:
+Komórka dendrytyczna prezentuje dany antygen jednoczeœnie za pomoc¹ MHC klasy I i klasy II (czyli zupe³nie nietypowo)
+Swoisty limfocyt Th rozpoznaje antygen w typowy sposób, przy czym uzyskuje zarówno pierwszy, jak i drugi sygna³. W wyniku wymiany sygna³ów, zarówno komórka dendrytyczna, jak i limfocyt Th, wydzielaj¹ liczne cytokiny, nawzajem siê aktywuj¹c
+Swoisty limfocyt Tc rozpoznaje antygen zwi¹zany z MHC klasy I, ale nie zabija on komórki dendrytycznej, lecz uzyskuje od niej sygna³ aktywuj¹cy w postaci cytokin
+Limfocyt Th tak¿e wydziela cytokiny, zw³aszcza Interleukinê 1, dziêki czemu limfocyt Tc jest pobudzany jeszcze mocniej
+Tak zaktywowany limfocyt Tc mo¿e ju¿ sprawdzaæ obecnoœæ antygenów na powierzchni innych komórek i w razie potrzeby zabijaæ je w sposób przedstawiony w pierwszej czêœci artyku³u.
+
+Prezentacja krzy¿owa wydaje siê byæ dosyæ istotnym procesem w przebiegu odpowiedzi przeciwwirusowej, ale g³ównym punktem, interesuj¹cym obecnie naukowców, jest mo¿liwoœæ wykorzystania jej w terapii przeciwnowotworowej.

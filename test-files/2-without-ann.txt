@@ -1,0 +1,942 @@
+cytotoksycznym :
+ cytotoksyczny[0.23348115299334812] *cytotoksyczn
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ cytotoksyczny[0.22549889135254989] *cytotoksyczn
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ cytotoksycznym[0.21951219512195122] *cytotoksycznym
+    0 : {*}
+ cytotoksyczny[0.21751662971175167] *cytotoksyczn
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ cytotoksyczny[0.16363636363636364] *cytotoksyczn
+    168 : {*y}, {*ego}, {*emu}, {*ych}, {*ym}, {*ymi}
+ cytotoksyczny[0.13370288248337028] *cytotoksyczn
+    227 : {*y}, {*ego}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}
+ cytotoksycznyma[0.12971175166297116] *cytotoksycznym
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ cytotoksycznym[0.12172949002217295] *cytotoksycznym
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ cytotoksycznym[0.08381374722838138] *cytotoksycznym
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ cytotoksycznymo[0.0778270509977827] *cytotoksycznym
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ cytotoksycznymiæ[0.07583148558758315] *cytotoksycznym
+    137 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iono}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ cytotoksycznym[0.07583148558758315] *cytotoksycznym
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ cytotoksycznym[0.07583148558758315] *cytotoksycznym
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ cytotoksycznym[0.06984478935698447] *cytotoksycznym
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ cytotoksycznymy[0.06784922394678493] *cytotoksycznym
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ cytotoksycznym[0.06784922394678493] *cytotoksycznym
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ cytotoksycznymy[0.06186252771618625] *cytotoksycznym
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ cytotoksycznyma[0.0598669623059867] *cytotoksycznym
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ cytotoksycznyma[0.053880266075388025] *cytotoksycznym
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ cytotoksycznym[0.0458980044345898] *cytotoksycznym
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+ubikwityny :
+ ubikwityn[0.18159645232815966] *ubikwityn
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ ubikwityna[0.17361419068736142] *ubikwityn
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ ubikwityn[0.16563192904656318] *ubikwityn
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ ubikwityn[0.15764966740576497] *ubikwityn
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ ubikwityn[0.15764966740576497] *ubikwityn
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ ubikwityn[0.14966740576496673] *ubikwityn
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ ubikwityny[0.13170731707317074] *ubikwityny
+    0 : {*}
+ ubikwityny[0.11175166297117517] *ubikwityn
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ ubikwityn[0.11175166297117517] *ubikwityn
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ ubikwityn[0.11175166297117517] *ubikwityn
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ ubikwityn[0.10376940133037695] *ubikwityn
+    363 : {*}, {*ach}, {*ami}, {*om}, {*owie}, {*y}, {*ów}
+ ubikwityn[0.10376940133037695] *ubikwityn
+    528 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ ubikwityna[0.09778270509977827] *ubikwityn
+    202 : {*a}, {*ie}, {*o}, {*y}, {*¹}, {*ê}
+ ubikwityny[0.08980044345898004] *ubikwityn
+    227 : {*y}, {*ego}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}
+
+ubikwitynacj¹ :
+ ubikwitynacja[0.21751662971175167] *ubikwitynac
+    13 : {*ja}, {*jach}, {*jami}, {*je}, {*ji}, {*jo}, {*jom}, {*j¹}, {*jê}, {*yj}
+ ubikwitynacja[0.13569844789356986] *ubikwitynacj
+    54 : {*a}, {*ach}, {*ami}, {*e}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ ubikwitynacj¹[0.10975609756097561] *ubikwitynacj¹
+    0 : {*}
+ ubikwitynacja[0.10376940133037695] *ubikwitynacj
+    524 : {*a}, {*ach}, {*ami}, {*e}, {*i}, {*o}, {*om}, {*owie}, {*ów}, {*¹}, {*ê}
+
+Ubikwitynowane :
+ ubikwitynowaæ[0.3492239467849224] *ubikwityn
+    8 : {*owaæ}, {*owali}, {*owaliby}, {*owalibyœcie}, {*owalibyœmy}, {*owaliœcie}, {*owaliœmy}, {*owana}, {*owane}, {*owanego}, {*owanej}, {*owanemu}, {*owani}, {*owania}, {*owaniach}, {*owaniami}, {*owanie}, {*owaniem}, {*owaniom}, {*owaniu}, {*owano}, {*owany}, {*owanych}, {*owanym}, {*owanymi}, {*owan¹}, {*owa³}, {*owa³a}, {*owa³aby}, {*owa³abym}, {*owa³abyœ}, {*owa³am}, {*owa³aœ}, {*owa³by}, {*owa³bym}, {*owa³byœ}, {*owa³em}, {*owa³eœ}, {*owa³o}, {*owa³oby}, {*owa³obym}, {*owa³obyœ}, {*owa³om}, {*owa³oœ}, {*owa³y}, {*owa³yby}, {*owa³ybyœcie}, {*owa³ybyœmy}, {*owa³yœcie}, {*owa³yœmy}, {*owañ}, {*uj}, {*ujcie}, {*ujcie¿}, {*uje}, {*ujecie}, {*ujemy}, {*ujesz}, {*ujmy}, {*ujmy¿}, {*uj¹}, {*ujê}, {*uj¿e}
+ ubikwitynowany[0.21152993348115298] *ubikwitynowan
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ ubikwitynowany[0.18159645232815966] *ubikwitynowan
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ ubikwitynowany[0.17361419068736142] *ubikwitynowan
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ ubikwitynowaæ[0.13968957871396895] *ubikwitynowa
+    649 : {*æ}, {*li}, {*liby}, {*libyœcie}, {*libyœmy}, {*liœcie}, {*liœmy}, {*na}, {*ne}, {*nego}, {*nej}, {*nemu}, {*ni}, {*nia}, {*niach}, {*niami}, {*nie}, {*niem}, {*niom}, {*niu}, {*no}, {*ny}, {*nych}, {*nym}, {*nymi}, {*n¹}, {*³}, {*³a}, {*³aby}, {*³abym}, {*³abyœ}, {*³am}, {*³aœ}, {*³by}, {*³bym}, {*³byœ}, {*³em}, {*³eœ}, {*³o}, {*³oby}, {*³obym}, {*³obyœ}, {*³om}, {*³oœ}, {*³y}, {*³yby}, {*³ybyœcie}, {*³ybyœmy}, {*³yœcie}, {*³yœmy}, {*ñ}
+ ubikwitynowane[0.10975609756097561] *ubikwitynowane
+    0 : {*}
+
+proteasomu :
+ proteasomo[0.12172949002217295] *proteasom
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ proteasom[0.1197339246119734] *proteasom
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ proteasom[0.11175166297117517] *proteasom
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ proteasomu[0.10975609756097561] *proteasomu
+    0 : {*}
+ proteasom[0.08980044345898004] *proteasom
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+multienzymatycznego :
+ multienzymatyczny[0.2773835920177384] *multienzymatyczn
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ multienzymatyczny[0.26940133037694014] *multienzymatyczn
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ multienzymatyczny[0.2614190687361419] *multienzymatyczn
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ multienzymatyczny[0.2075388026607539] *multienzymatyczn
+    168 : {*y}, {*ego}, {*emu}, {*ych}, {*ym}, {*ymi}
+ multienzymatyczny[0.17760532150776054] *multienzymatyczn
+    227 : {*y}, {*ego}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}
+ multienzymatycznega[0.14966740576496673] *multienzymatyczne
+    83 : {*ga}, {*dze}, {*g}, {*gach}, {*gami}, {*gi}, {*go}, {*gom}, {*g¹}, {*gê}
+ multienzymatycznego[0.11374722838137473] *multienzymatyczneg
+    60 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*u}
+ multienzymatycznego[0.10975609756097561] *multienzymatycznego
+    0 : {*}
+
+proteasomu :
+ proteasomo[0.12172949002217295] *proteasom
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ proteasom[0.1197339246119734] *proteasom
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ proteasom[0.11175166297117517] *proteasom
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ proteasomu[0.10975609756097561] *proteasomu
+    0 : {*}
+ proteasom[0.08980044345898004] *proteasom
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+œródplazmatycznej :
+ œródplazmatyczny[0.23348115299334812] *œródplazmatyczn
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ œródplazmatyczny[0.22549889135254989] *œródplazmatyczn
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ œródplazmatyczny[0.21751662971175167] *œródplazmatyczn
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ œródplazmatycznej[0.13170731707317074] *œródplazmatycznej
+    0 : {*}
+ œródplazmatycznej[0.11175166297117517] *œródplazmatyczne
+    286 : {*j}, {*i}, {*jach}, {*jami}, {*je}, {*jem}, {*jom}, {*jowi}, {*ju}, {*jów}
+ œródplazmatyczneja[0.09778270509977827] *œródplazmatyczne
+    156 : {*ja}, {*i}, {*j}, {*jach}, {*jami}, {*je}, {*jo}, {*jom}, {*j¹}, {*jê}
+ œródplazmatycznej[0.09778270509977827] *œródplazmatyczne
+    199 : {*j}, {*i}, {*ja}, {*jach}, {*jami}, {*je}, {*jem}, {*jom}, {*jowi}, {*ju}, {*jów}
+ œródplazmatycznej[0.0917960088691796] *œródplazmatycznej
+    75 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ œródplazmatycznej[0.08381374722838138] *œródplazmatycznej
+    89 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ œródplazmatycznej[0.08381374722838138] *œródplazmatycznej
+    99 : {*}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+
+Golgiego :
+ golgi[0.19955654101995565] *golgi
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ golgi[0.19955654101995565] *golgi
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ golgiega[0.14966740576496673] *golgie
+    83 : {*ga}, {*dze}, {*g}, {*gach}, {*gami}, {*gi}, {*go}, {*gom}, {*g¹}, {*gê}
+ golgiego[0.11374722838137473] *golgieg
+    60 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*u}
+ golgiego[0.10975609756097561] *golgiego
+    0 : {*}
+
+glikozylacji :
+ glikozylacja[0.21751662971175167] *glikozylac
+    13 : {*ja}, {*jach}, {*jami}, {*je}, {*ji}, {*jo}, {*jom}, {*j¹}, {*jê}, {*yj}
+ glikozylacja[0.13569844789356986] *glikozylacj
+    54 : {*a}, {*ach}, {*ami}, {*e}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ glikozylacje[0.1197339246119734] *glikozylacj
+    166 : {*e}, {*ach}, {*ami}, {*i}, {*om}
+ glikozylacje[0.11175166297117517] *glikozylacj
+    300 : {*e}, {*ach}, {*ami}, {*i}, {*om}, {*ów}
+ glikozylacji[0.10975609756097561] *glikozylacji
+    0 : {*}
+ glikozylacja[0.10376940133037695] *glikozylacj
+    524 : {*a}, {*ach}, {*ami}, {*e}, {*i}, {*o}, {*om}, {*owie}, {*ów}, {*¹}, {*ê}
+ glikozylacjie[0.07583148558758315] *glikozylacji
+    186 : {*e}, {*}, {*ach}, {*ami}, {*om}
+ glikozylacji[0.06784922394678493] *glikozylacji
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ glikozylacjia[0.06784922394678493] *glikozylacji
+    251 : {*a}, {*}, {*ach}, {*ami}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ glikozylacji[0.06784922394678493] *glikozylacji
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ glikozylacji[0.0598669623059867] *glikozylacji
+    526 : {*}, {*ach}, {*ami}, {*om}
+ glikozylacjia[0.05188470066518847] *glikozylacji
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ glikozylacjia[0.05188470066518847] *glikozylacji
+    722 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*u}, {*¹}, {*ê}
+ glikozylacjia[0.037915742793791576] *glikozylacji
+    396 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*¹}, {*ê}
+
+Proteasom :
+ proteasa[0.19556541019955653] *proteas
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ proteas[0.18758314855875832] *proteas
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ proteas[0.17960088691796008] *proteas
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ proteas[0.17960088691796008] *proteas
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ proteasum[0.15764966740576497] *proteas
+    47 : {*um}, {*a}, {*ach}, {*ami}, {*om}, {*ów}
+ proteaso[0.1556541019955654] *proteas
+    228 : {*o}, {*ach}, {*ami}, {*om}, {*owie}, {*ów}
+ proteas[0.1556541019955654] *proteas
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ proteasy[0.14966740576496673] *proteas
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ proteas[0.14966740576496673] *proteas
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ proteas[0.1476718403547672] *proteas
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ proteas[0.14168514412416852] *proteas
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ protease[0.14168514412416852] *proteas
+    185 : {*e}, {*ach}, {*ami}, {*om}, {*ów}
+ proteaso[0.14168514412416852] *proteas
+    190 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}
+ proteas[0.14168514412416852] *proteas
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ proteasa[0.13370288248337028] *proteas
+    215 : {*a}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ proteasom[0.13170731707317074] *proteasom
+    0 : {*}
+ proteasomiæ[0.11374722838137473] *proteasom
+    52 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ieni}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iona}, {*ione}, {*ionego}, {*ionej}, {*ionemu}, {*iono}, {*iony}, {*ionych}, {*ionym}, {*ionymi}, {*ion¹}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ proteasom[0.11374722838137473] *proteasom
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ proteasoma[0.10776053215077605] *proteasom
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ proteasom[0.09977827050997783] *proteasom
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ proteasom[0.08381374722838138] *proteasom
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ proteasomo[0.0778270509977827] *proteasom
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ proteasomiæ[0.07583148558758315] *proteasom
+    137 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iono}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ proteasom[0.07583148558758315] *proteasom
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ proteasom[0.07583148558758315] *proteasom
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ proteasom[0.06984478935698447] *proteasom
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ proteasomy[0.06784922394678493] *proteasom
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ proteasom[0.06784922394678493] *proteasom
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ proteasomy[0.06186252771618625] *proteasom
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ proteasoma[0.0598669623059867] *proteasom
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ proteasoma[0.053880266075388025] *proteasom
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ proteasom[0.0458980044345898] *proteasom
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+ubikwitynowane :
+ ubikwitynowaæ[0.3492239467849224] *ubikwityn
+    8 : {*owaæ}, {*owali}, {*owaliby}, {*owalibyœcie}, {*owalibyœmy}, {*owaliœcie}, {*owaliœmy}, {*owana}, {*owane}, {*owanego}, {*owanej}, {*owanemu}, {*owani}, {*owania}, {*owaniach}, {*owaniami}, {*owanie}, {*owaniem}, {*owaniom}, {*owaniu}, {*owano}, {*owany}, {*owanych}, {*owanym}, {*owanymi}, {*owan¹}, {*owa³}, {*owa³a}, {*owa³aby}, {*owa³abym}, {*owa³abyœ}, {*owa³am}, {*owa³aœ}, {*owa³by}, {*owa³bym}, {*owa³byœ}, {*owa³em}, {*owa³eœ}, {*owa³o}, {*owa³oby}, {*owa³obym}, {*owa³obyœ}, {*owa³om}, {*owa³oœ}, {*owa³y}, {*owa³yby}, {*owa³ybyœcie}, {*owa³ybyœmy}, {*owa³yœcie}, {*owa³yœmy}, {*owañ}, {*uj}, {*ujcie}, {*ujcie¿}, {*uje}, {*ujecie}, {*ujemy}, {*ujesz}, {*ujmy}, {*ujmy¿}, {*uj¹}, {*ujê}, {*uj¿e}
+ ubikwitynowany[0.21152993348115298] *ubikwitynowan
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ ubikwitynowany[0.18159645232815966] *ubikwitynowan
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ ubikwitynowany[0.17361419068736142] *ubikwitynowan
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ ubikwitynowaæ[0.13968957871396895] *ubikwitynowa
+    649 : {*æ}, {*li}, {*liby}, {*libyœcie}, {*libyœmy}, {*liœcie}, {*liœmy}, {*na}, {*ne}, {*nego}, {*nej}, {*nemu}, {*ni}, {*nia}, {*niach}, {*niami}, {*nie}, {*niem}, {*niom}, {*niu}, {*no}, {*ny}, {*nych}, {*nym}, {*nymi}, {*n¹}, {*³}, {*³a}, {*³aby}, {*³abym}, {*³abyœ}, {*³am}, {*³aœ}, {*³by}, {*³bym}, {*³byœ}, {*³em}, {*³eœ}, {*³o}, {*³oby}, {*³obym}, {*³obyœ}, {*³om}, {*³oœ}, {*³y}, {*³yby}, {*³ybyœcie}, {*³ybyœmy}, {*³yœcie}, {*³yœmy}, {*ñ}
+ ubikwitynowane[0.10975609756097561] *ubikwitynowane
+    0 : {*}
+
+immunofagocytozy :
+ immunofagocytoza[0.17361419068736142] *immunofagocytoz
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ immunofagocytoz[0.16563192904656318] *immunofagocytoz
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ immunofagocytoz[0.15964523281596452] *immunofagocytoz
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ immunofagocytoza[0.13370288248337028] *immunofagocytoz
+    310 : {*a}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ immunofagocytozy[0.12771618625277162] *immunofagocytoz
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ immunofagocytoz[0.12771618625277162] *immunofagocytoz
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ immunofagocytoz[0.1197339246119734] *immunofagocytoz
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ immunofagocytozy[0.11374722838137473] *immunofagocytoz
+    66 : {*y}, {*ach}, {*ami}, {*om}, {*ów}
+ immunofagocytoz[0.11175166297117517] *immunofagocytoz
+    221 : {*}, {*ach}, {*ami}, {*om}, {*y}, {*ów}
+ immunofagocytoz[0.10576496674057649] *immunofagocytoz
+    100 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ immunofagocytoz[0.10576496674057649] *immunofagocytoz
+    109 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ immunofagocytoz[0.10376940133037695] *immunofagocytoz
+    363 : {*}, {*ach}, {*ami}, {*om}, {*owie}, {*y}, {*ów}
+ immunofagocytoza[0.10376940133037695] *immunofagocytoz
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ immunofagocytozy[0.08980044345898004] *immunofagocytoz
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+
+endosom :
+ endos[0.22549889135254989] *endos
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosy[0.2015521064301552] *endos
+    66 : {*y}, {*ach}, {*ami}, {*om}, {*ów}
+ endosa[0.19556541019955653] *endos
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ endos[0.17960088691796008] *endos
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosom[0.15964523281596452] *endosom
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosum[0.15764966740576497] *endos
+    47 : {*um}, {*a}, {*ach}, {*ami}, {*om}, {*ów}
+ endoso[0.1556541019955654] *endos
+    228 : {*o}, {*ach}, {*ami}, {*om}, {*owie}, {*ów}
+ endos[0.1556541019955654] *endos
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosy[0.14966740576496673] *endos
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ endos[0.14966740576496673] *endos
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endos[0.1476718403547672] *endos
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ endos[0.14168514412416852] *endos
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endose[0.14168514412416852] *endos
+    185 : {*e}, {*ach}, {*ami}, {*om}, {*ów}
+ endoso[0.14168514412416852] *endos
+    190 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}
+ endos[0.14168514412416852] *endos
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ endosa[0.13370288248337028] *endos
+    215 : {*a}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ endosom[0.13170731707317074] *endosom
+    0 : {*}
+ endosomiæ[0.11374722838137473] *endosom
+    52 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ieni}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iona}, {*ione}, {*ionego}, {*ionej}, {*ionemu}, {*iono}, {*iony}, {*ionych}, {*ionym}, {*ionymi}, {*ion¹}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ endosom[0.11374722838137473] *endosom
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endosoma[0.10776053215077605] *endosom
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ endosom[0.09977827050997783] *endosom
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosom[0.08381374722838138] *endosom
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endosomo[0.0778270509977827] *endosom
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ endosomiæ[0.07583148558758315] *endosom
+    137 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iono}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ endosom[0.07583148558758315] *endosom
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosom[0.07583148558758315] *endosom
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ endosom[0.06984478935698447] *endosom
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosomy[0.06784922394678493] *endosom
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ endosom[0.06784922394678493] *endosom
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ endosomy[0.06186252771618625] *endosom
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ endosoma[0.0598669623059867] *endosom
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ endosoma[0.053880266075388025] *endosom
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ endosom[0.0458980044345898] *endosom
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+endosomu :
+ endosom[0.20354767184035477] *endosom
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosomo[0.12172949002217295] *endosom
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ endosom[0.1197339246119734] *endosom
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosom[0.11175166297117517] *endosom
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ endosomu[0.10975609756097561] *endosomu
+    0 : {*}
+ endosom[0.08980044345898004] *endosom
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+Endosom :
+ endos[0.22549889135254989] *endos
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosy[0.2015521064301552] *endos
+    66 : {*y}, {*ach}, {*ami}, {*om}, {*ów}
+ endosa[0.19556541019955653] *endos
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ endos[0.17960088691796008] *endos
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosom[0.15964523281596452] *endosom
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosum[0.15764966740576497] *endos
+    47 : {*um}, {*a}, {*ach}, {*ami}, {*om}, {*ów}
+ endoso[0.1556541019955654] *endos
+    228 : {*o}, {*ach}, {*ami}, {*om}, {*owie}, {*ów}
+ endos[0.1556541019955654] *endos
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosy[0.14966740576496673] *endos
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ endos[0.14966740576496673] *endos
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endos[0.1476718403547672] *endos
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ endos[0.14168514412416852] *endos
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endose[0.14168514412416852] *endos
+    185 : {*e}, {*ach}, {*ami}, {*om}, {*ów}
+ endoso[0.14168514412416852] *endos
+    190 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}
+ endos[0.14168514412416852] *endos
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ endosa[0.13370288248337028] *endos
+    215 : {*a}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ endosom[0.13170731707317074] *endosom
+    0 : {*}
+ endosomiæ[0.11374722838137473] *endosom
+    52 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ieni}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iona}, {*ione}, {*ionego}, {*ionej}, {*ionemu}, {*iono}, {*iony}, {*ionych}, {*ionym}, {*ionymi}, {*ion¹}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ endosom[0.11374722838137473] *endosom
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endosoma[0.10776053215077605] *endosom
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ endosom[0.09977827050997783] *endosom
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosom[0.08381374722838138] *endosom
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endosomo[0.0778270509977827] *endosom
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ endosomiæ[0.07583148558758315] *endosom
+    137 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iono}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ endosom[0.07583148558758315] *endosom
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosom[0.07583148558758315] *endosom
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ endosom[0.06984478935698447] *endosom
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosomy[0.06784922394678493] *endosom
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ endosom[0.06784922394678493] *endosom
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ endosomy[0.06186252771618625] *endosom
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ endosoma[0.0598669623059867] *endosom
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ endosoma[0.053880266075388025] *endosom
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ endosom[0.0458980044345898] *endosom
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+Endosom :
+ endos[0.22549889135254989] *endos
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosy[0.2015521064301552] *endos
+    66 : {*y}, {*ach}, {*ami}, {*om}, {*ów}
+ endosa[0.19556541019955653] *endos
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ endos[0.17960088691796008] *endos
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosom[0.15964523281596452] *endosom
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosum[0.15764966740576497] *endos
+    47 : {*um}, {*a}, {*ach}, {*ami}, {*om}, {*ów}
+ endoso[0.1556541019955654] *endos
+    228 : {*o}, {*ach}, {*ami}, {*om}, {*owie}, {*ów}
+ endos[0.1556541019955654] *endos
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosy[0.14966740576496673] *endos
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ endos[0.14966740576496673] *endos
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endos[0.1476718403547672] *endos
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ endos[0.14168514412416852] *endos
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endose[0.14168514412416852] *endos
+    185 : {*e}, {*ach}, {*ami}, {*om}, {*ów}
+ endoso[0.14168514412416852] *endos
+    190 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}
+ endos[0.14168514412416852] *endos
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ endosa[0.13370288248337028] *endos
+    215 : {*a}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ endosom[0.13170731707317074] *endosom
+    0 : {*}
+ endosomiæ[0.11374722838137473] *endosom
+    52 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ieni}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iona}, {*ione}, {*ionego}, {*ionej}, {*ionemu}, {*iono}, {*iony}, {*ionych}, {*ionym}, {*ionymi}, {*ion¹}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ endosom[0.11374722838137473] *endosom
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endosoma[0.10776053215077605] *endosom
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ endosom[0.09977827050997783] *endosom
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosom[0.08381374722838138] *endosom
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endosomo[0.0778270509977827] *endosom
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ endosomiæ[0.07583148558758315] *endosom
+    137 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iono}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ endosom[0.07583148558758315] *endosom
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosom[0.07583148558758315] *endosom
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ endosom[0.06984478935698447] *endosom
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosomy[0.06784922394678493] *endosom
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ endosom[0.06784922394678493] *endosom
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ endosomy[0.06186252771618625] *endosom
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ endosoma[0.0598669623059867] *endosom
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ endosoma[0.053880266075388025] *endosom
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ endosom[0.0458980044345898] *endosom
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+endosom :
+ endos[0.22549889135254989] *endos
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosy[0.2015521064301552] *endos
+    66 : {*y}, {*ach}, {*ami}, {*om}, {*ów}
+ endosa[0.19556541019955653] *endos
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ endos[0.17960088691796008] *endos
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosom[0.15964523281596452] *endosom
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosum[0.15764966740576497] *endos
+    47 : {*um}, {*a}, {*ach}, {*ami}, {*om}, {*ów}
+ endoso[0.1556541019955654] *endos
+    228 : {*o}, {*ach}, {*ami}, {*om}, {*owie}, {*ów}
+ endos[0.1556541019955654] *endos
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosy[0.14966740576496673] *endos
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ endos[0.14966740576496673] *endos
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endos[0.1476718403547672] *endos
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ endos[0.14168514412416852] *endos
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endose[0.14168514412416852] *endos
+    185 : {*e}, {*ach}, {*ami}, {*om}, {*ów}
+ endoso[0.14168514412416852] *endos
+    190 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}
+ endos[0.14168514412416852] *endos
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ endosa[0.13370288248337028] *endos
+    215 : {*a}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ endosom[0.13170731707317074] *endosom
+    0 : {*}
+ endosomiæ[0.11374722838137473] *endosom
+    52 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ieni}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iona}, {*ione}, {*ionego}, {*ionej}, {*ionemu}, {*iono}, {*iony}, {*ionych}, {*ionym}, {*ionymi}, {*ion¹}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ endosom[0.11374722838137473] *endosom
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endosoma[0.10776053215077605] *endosom
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ endosom[0.09977827050997783] *endosom
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosom[0.08381374722838138] *endosom
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endosomo[0.0778270509977827] *endosom
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ endosomiæ[0.07583148558758315] *endosom
+    137 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iono}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ endosom[0.07583148558758315] *endosom
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosom[0.07583148558758315] *endosom
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ endosom[0.06984478935698447] *endosom
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endosomy[0.06784922394678493] *endosom
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ endosom[0.06784922394678493] *endosom
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ endosomy[0.06186252771618625] *endosom
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ endosoma[0.0598669623059867] *endosom
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ endosoma[0.053880266075388025] *endosom
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ endosom[0.0458980044345898] *endosom
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+Golgiego :
+ golgi[0.19955654101995565] *golgi
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ golgi[0.19955654101995565] *golgi
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ golgiega[0.14966740576496673] *golgie
+    83 : {*ga}, {*dze}, {*g}, {*gach}, {*gami}, {*gi}, {*go}, {*gom}, {*g¹}, {*gê}
+ golgiego[0.11374722838137473] *golgieg
+    60 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*u}
+ golgiego[0.10975609756097561] *golgiego
+    0 : {*}
+
+endoplazmatycznym :
+ endoplazmatyczny[0.23348115299334812] *endoplazmatyczn
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ endoplazmatyczny[0.22549889135254989] *endoplazmatyczn
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ endoplazmatycznym[0.21951219512195122] *endoplazmatycznym
+    0 : {*}
+ endoplazmatyczny[0.21751662971175167] *endoplazmatyczn
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ endoplazmatyczny[0.16363636363636364] *endoplazmatyczn
+    168 : {*y}, {*ego}, {*emu}, {*ych}, {*ym}, {*ymi}
+ endoplazmatyczny[0.13370288248337028] *endoplazmatyczn
+    227 : {*y}, {*ego}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}
+ endoplazmatycznyma[0.12971175166297116] *endoplazmatycznym
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ endoplazmatycznym[0.12172949002217295] *endoplazmatycznym
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endoplazmatycznym[0.08381374722838138] *endoplazmatycznym
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ endoplazmatycznymo[0.0778270509977827] *endoplazmatycznym
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ endoplazmatycznymiæ[0.07583148558758315] *endoplazmatycznym
+    137 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iono}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ endoplazmatycznym[0.07583148558758315] *endoplazmatycznym
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endoplazmatycznym[0.07583148558758315] *endoplazmatycznym
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ endoplazmatycznym[0.06984478935698447] *endoplazmatycznym
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ endoplazmatycznymy[0.06784922394678493] *endoplazmatycznym
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ endoplazmatycznym[0.06784922394678493] *endoplazmatycznym
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ endoplazmatycznymy[0.06186252771618625] *endoplazmatycznym
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ endoplazmatycznyma[0.0598669623059867] *endoplazmatycznym
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ endoplazmatycznyma[0.053880266075388025] *endoplazmatycznym
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ endoplazmatycznym[0.0458980044345898] *endoplazmatycznym
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+œródplazmatycznej :
+ œródplazmatyczny[0.23348115299334812] *œródplazmatyczn
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ œródplazmatyczny[0.22549889135254989] *œródplazmatyczn
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ œródplazmatyczny[0.21751662971175167] *œródplazmatyczn
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ œródplazmatycznej[0.13170731707317074] *œródplazmatycznej
+    0 : {*}
+ œródplazmatycznej[0.11175166297117517] *œródplazmatyczne
+    286 : {*j}, {*i}, {*jach}, {*jami}, {*je}, {*jem}, {*jom}, {*jowi}, {*ju}, {*jów}
+ œródplazmatyczneja[0.09778270509977827] *œródplazmatyczne
+    156 : {*ja}, {*i}, {*j}, {*jach}, {*jami}, {*je}, {*jo}, {*jom}, {*j¹}, {*jê}
+ œródplazmatycznej[0.09778270509977827] *œródplazmatyczne
+    199 : {*j}, {*i}, {*ja}, {*jach}, {*jami}, {*je}, {*jem}, {*jom}, {*jowi}, {*ju}, {*jów}
+ œródplazmatycznej[0.0917960088691796] *œródplazmatycznej
+    75 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ œródplazmatycznej[0.08381374722838138] *œródplazmatycznej
+    89 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ œródplazmatycznej[0.08381374722838138] *œródplazmatycznej
+    99 : {*}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+
+œródplazmatycznej :
+ œródplazmatyczny[0.23348115299334812] *œródplazmatyczn
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ œródplazmatyczny[0.22549889135254989] *œródplazmatyczn
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ œródplazmatyczny[0.21751662971175167] *œródplazmatyczn
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ œródplazmatycznej[0.13170731707317074] *œródplazmatycznej
+    0 : {*}
+ œródplazmatycznej[0.11175166297117517] *œródplazmatyczne
+    286 : {*j}, {*i}, {*jach}, {*jami}, {*je}, {*jem}, {*jom}, {*jowi}, {*ju}, {*jów}
+ œródplazmatyczneja[0.09778270509977827] *œródplazmatyczne
+    156 : {*ja}, {*i}, {*j}, {*jach}, {*jami}, {*je}, {*jo}, {*jom}, {*j¹}, {*jê}
+ œródplazmatycznej[0.09778270509977827] *œródplazmatyczne
+    199 : {*j}, {*i}, {*ja}, {*jach}, {*jami}, {*je}, {*jem}, {*jom}, {*jowi}, {*ju}, {*jów}
+ œródplazmatycznej[0.0917960088691796] *œródplazmatycznej
+    75 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ œródplazmatycznej[0.08381374722838138] *œródplazmatycznej
+    89 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ œródplazmatycznej[0.08381374722838138] *œródplazmatycznej
+    99 : {*}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+
+Golgiego :
+ golgi[0.19955654101995565] *golgi
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ golgi[0.19955654101995565] *golgi
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ golgiega[0.14966740576496673] *golgie
+    83 : {*ga}, {*dze}, {*g}, {*gach}, {*gami}, {*gi}, {*go}, {*gom}, {*g¹}, {*gê}
+ golgiego[0.11374722838137473] *golgieg
+    60 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*u}
+ golgiego[0.10975609756097561] *golgiego
+    0 : {*}
+
+glikozylacja :
+ glikozylacja[0.21751662971175167] *glikozylac
+    13 : {*ja}, {*jach}, {*jami}, {*je}, {*ji}, {*jo}, {*jom}, {*j¹}, {*jê}, {*yj}
+ glikozylacjum[0.13569844789356986] *glikozylacj
+    47 : {*um}, {*a}, {*ach}, {*ami}, {*om}, {*ów}
+ glikozylacja[0.13569844789356986] *glikozylacj
+    54 : {*a}, {*ach}, {*ami}, {*e}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ glikozylacja[0.10975609756097561] *glikozylacja
+    0 : {*}
+ glikozylacja[0.10576496674057649] *glikozylacj
+    103 : {*a}, {*ach}, {*ami}, {*om}, {*ów}
+ glikozylacja[0.10376940133037695] *glikozylacj
+    524 : {*a}, {*ach}, {*ami}, {*e}, {*i}, {*o}, {*om}, {*owie}, {*ów}, {*¹}, {*ê}
+
+Golgiego :
+ golgi[0.19955654101995565] *golgi
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ golgi[0.19955654101995565] *golgi
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ golgiega[0.14966740576496673] *golgie
+    83 : {*ga}, {*dze}, {*g}, {*gach}, {*gami}, {*gi}, {*go}, {*gom}, {*g¹}, {*gê}
+ golgiego[0.11374722838137473] *golgieg
+    60 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*u}
+ golgiego[0.10975609756097561] *golgiego
+    0 : {*}
+
+endosomu :
+ endosom[0.20354767184035477] *endosom
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosomo[0.12172949002217295] *endosom
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ endosom[0.1197339246119734] *endosom
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ endosom[0.11175166297117517] *endosom
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ endosomu[0.10975609756097561] *endosomu
+    0 : {*}
+ endosom[0.08980044345898004] *endosom
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+koreceptorowe :
+ koreceptorowy[0.18957871396895787] *koreceptorow
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ koreceptorowy[0.18159645232815966] *koreceptorow
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ koreceptorowy[0.14368070953436807] *koreceptorow
+    32 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*o}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*o}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ koreceptorowa[0.11175166297117517] *koreceptorow
+    309 : {*a}, {*e}, {*ej}, {*o}, {*ych}, {*ym}, {*ymi}, {*¹}
+ koreceptorowe[0.10975609756097561] *koreceptorowe
+    0 : {*}
+
+blastyczn¹ :
+ blastyczny[0.18957871396895787] *blastyczn
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ blastyczny[0.18159645232815966] *blastyczn
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ blastyczny[0.17361419068736142] *blastyczn
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ blastyczna[0.1556541019955654] *blastycz
+    234 : {*na}, {*en}, {*nach}, {*nami}, {*nie}, {*no}, {*nom}, {*ny}, {*n¹}, {*nê}
+ blastycz¹æ[0.1476718403547672] *blastycz
+    370 : {*¹æ}, {*nie}, {*niecie}, {*niemy}, {*niesz}, {*nij}, {*nijcie}, {*nijcie¿}, {*nijmy}, {*nijmy¿}, {*nij¿e}, {*n¹}, {*nê}, {*¹³}, {*¹³by}, {*¹³bym}, {*¹³byœ}, {*¹³em}, {*¹³eœ}, {*êci}, {*êcia}, {*êciach}, {*êciami}, {*êcie}, {*êciem}, {*êciom}, {*êciu}, {*êli}, {*êliby}, {*êlibyœcie}, {*êlibyœmy}, {*êliœcie}, {*êliœmy}, {*êta}, {*ête}, {*êtego}, {*êtej}, {*êtemu}, {*êto}, {*êty}, {*êtych}, {*êtym}, {*êtymi}, {*êt¹}, {*êæ}, {*ê³a}, {*ê³aby}, {*ê³abym}, {*ê³abyœ}, {*ê³am}, {*ê³aœ}, {*ê³o}, {*ê³oby}, {*ê³obym}, {*ê³obyœ}, {*ê³om}, {*ê³oœ}, {*ê³y}, {*ê³yby}, {*ê³ybyœcie}, {*ê³ybyœmy}, {*ê³yœcie}, {*ê³yœmy}
+ blastycz¹æ[0.13968957871396895] *blastycz
+    583 : {*¹æ}, {*nie}, {*niecie}, {*niemy}, {*niesz}, {*nij}, {*nijcie}, {*nijcie¿}, {*nijmy}, {*nijmy¿}, {*nij¿e}, {*n¹}, {*nê}, {*¹³}, {*¹³by}, {*¹³bym}, {*¹³byœ}, {*¹³em}, {*¹³eœ}, {*êcia}, {*êciach}, {*êciami}, {*êcie}, {*êciem}, {*êciom}, {*êciu}, {*êli}, {*êliby}, {*êlibyœcie}, {*êlibyœmy}, {*êliœcie}, {*êliœmy}, {*êto}, {*êæ}, {*ê³a}, {*ê³aby}, {*ê³abym}, {*ê³abyœ}, {*ê³am}, {*ê³aœ}, {*ê³o}, {*ê³oby}, {*ê³obym}, {*ê³obyœ}, {*ê³om}, {*ê³oœ}, {*ê³y}, {*ê³yby}, {*ê³ybyœcie}, {*ê³ybyœmy}, {*ê³yœcie}, {*ê³yœmy}
+ blastyczn¹[0.10975609756097561] *blastyczn¹
+    0 : {*}
+ blastyczna[0.09778270509977827] *blastyczn
+    202 : {*a}, {*ie}, {*o}, {*y}, {*¹}, {*ê}
+
+efektorowe :
+ efektorowy[0.18957871396895787] *efektorow
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ efektorowy[0.18159645232815966] *efektorow
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ efektorowy[0.14368070953436807] *efektorow
+    32 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*o}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*o}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ efektorowa[0.11175166297117517] *efektorow
+    309 : {*a}, {*e}, {*ej}, {*o}, {*ych}, {*ym}, {*ymi}, {*¹}
+ efektorowe[0.10975609756097561] *efektorowe
+    0 : {*}
+
+helper :
+ helper[0.14168514412416852] *help
+    142 : {*er}, {*ra}, {*rach}, {*rami}, {*rem}, {*rom}, {*rowi}, {*ry}, {*rze}, {*rów}
+ helper[0.13370288248337028] *help
+    240 : {*er}, {*rach}, {*rami}, {*rem}, {*rom}, {*rowi}, {*ru}, {*ry}, {*rze}, {*rów}
+ helper[0.12572062084257207] *help
+    389 : {*er}, {*ra}, {*rach}, {*rami}, {*rem}, {*rom}, {*rowi}, {*rowie}, {*ry}, {*rze}, {*rów}
+ helper[0.11374722838137473] *helper
+    45 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*ze}, {*zy}, {*ów}
+ helper[0.10975609756097561] *helper
+    0 : {*}
+ helper[0.09977827050997783] *helper
+    30 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*ze}, {*ów}
+ helper[0.08381374722838138] *helper
+    117 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*ze}, {*zy}, {*ów}
+ helper[0.08381374722838138] *helper
+    126 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*ze}, {*ów}
+ helpera[0.0778270509977827] *helper
+    40 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*¹}, {*ê}
+ helper[0.06784922394678493] *helper
+    313 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*ze}, {*ów}
+ helpery[0.06186252771618625] *helper
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ helpera[0.05188470066518847] *helper
+    719 : {*a}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ helper[0.05188470066518847] *helper
+    729 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*zy}, {*ów}
+ helper[0.05188470066518847] *helper
+    730 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ze}, {*zy}, {*ów}
+ helpero[0.0458980044345898] *helper
+    239 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}, {*ze}
+ helper[0.0458980044345898] *helper
+    262 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*ów}
+ helpera[0.0458980044345898] *helper
+    276 : {*a}, {*}, {*ach}, {*ami}, {*om}
+ helpera[0.0458980044345898] *helper
+    311 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*ów}, {*¹}, {*ê}
+ helper[0.037915742793791576] *helper
+    484 : {*}, {*a}, {*em}, {*owi}, {*ze}
+ helper[0.037915742793791576] *helper
+    571 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*ze}, {*zy}, {*ów}
+ helper[0.037915742793791576] *helper
+    572 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*ze}
+
+autotolerancji :
+ autotolerancja[0.21751662971175167] *autotoleranc
+    13 : {*ja}, {*jach}, {*jami}, {*je}, {*ji}, {*jo}, {*jom}, {*j¹}, {*jê}, {*yj}
+ autotolerancja[0.13569844789356986] *autotolerancj
+    54 : {*a}, {*ach}, {*ami}, {*e}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ autotolerancje[0.1197339246119734] *autotolerancj
+    166 : {*e}, {*ach}, {*ami}, {*i}, {*om}
+ autotolerancje[0.11175166297117517] *autotolerancj
+    300 : {*e}, {*ach}, {*ami}, {*i}, {*om}, {*ów}
+ autotolerancji[0.10975609756097561] *autotolerancji
+    0 : {*}
+ autotolerancja[0.10376940133037695] *autotolerancj
+    524 : {*a}, {*ach}, {*ami}, {*e}, {*i}, {*o}, {*om}, {*owie}, {*ów}, {*¹}, {*ê}
+ autotolerancjie[0.07583148558758315] *autotolerancji
+    186 : {*e}, {*}, {*ach}, {*ami}, {*om}
+ autotolerancji[0.06784922394678493] *autotolerancji
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ autotolerancjia[0.06784922394678493] *autotolerancji
+    251 : {*a}, {*}, {*ach}, {*ami}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ autotolerancji[0.06784922394678493] *autotolerancji
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ autotolerancji[0.0598669623059867] *autotolerancji
+    526 : {*}, {*ach}, {*ami}, {*om}
+ autotolerancjia[0.05188470066518847] *autotolerancji
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ autotolerancjia[0.05188470066518847] *autotolerancji
+    722 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*u}, {*¹}, {*ê}
+ autotolerancjia[0.037915742793791576] *autotolerancji
+    396 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*¹}, {*ê}
+
+areaktywnoœci :
+ areaktywnosty[0.22350332594235034] *areaktywno
+    63 : {*sty}, {*sta}, {*ste}, {*stego}, {*stej}, {*stemu}, {*stych}, {*stym}, {*stymi}, {*st¹}, {*œci}, {nie*sta}, {nie*ste}, {nie*stego}, {nie*stej}, {nie*stemu}, {nie*sty}, {nie*stych}, {nie*stym}, {nie*stymi}, {nie*st¹}, {nie*œci}
+ areaktywnoœciæ[0.2075388026607539] *areaktywno
+    134 : {*œciæ}, {*szczeni}, {*szczenia}, {*szczeniach}, {*szczeniami}, {*szczenie}, {*szczeniem}, {*szczeniom}, {*szczeniu}, {*szczeñ}, {*szczona}, {*szczone}, {*szczonego}, {*szczonej}, {*szczonemu}, {*szczono}, {*szczony}, {*szczonych}, {*szczonym}, {*szczonymi}, {*szczon¹}, {*szcz¹}, {*szczê}, {*œci}, {*œcicie}, {*œcili}, {*œciliby}, {*œcilibyœcie}, {*œcilibyœmy}, {*œciliœcie}, {*œciliœmy}, {*œcimy}, {*œcisz}, {*œci³}, {*œci³a}, {*œci³aby}, {*œci³abym}, {*œci³abyœ}, {*œci³am}, {*œci³aœ}, {*œci³by}, {*œci³bym}, {*œci³byœ}, {*œci³em}, {*œci³eœ}, {*œci³o}, {*œci³oby}, {*œci³obym}, {*œci³obyœ}, {*œci³om}, {*œci³oœ}, {*œci³y}, {*œci³yby}, {*œci³ybyœcie}, {*œci³ybyœmy}, {*œci³yœcie}, {*œci³yœmy}, {*œæ}, {*œæcie}, {*œæcie¿}, {*œæmy}, {*œæmy¿}, {*œæ¿e}
+ areaktywnoœciæ[0.19955654101995565] *areaktywno
+    314 : {*œciæ}, {*szczenia}, {*szczeniach}, {*szczeniami}, {*szczenie}, {*szczeniem}, {*szczeniom}, {*szczeniu}, {*szczeñ}, {*szczono}, {*szcz¹}, {*szczê}, {*œci}, {*œcicie}, {*œcili}, {*œciliby}, {*œcilibyœcie}, {*œcilibyœmy}, {*œciliœcie}, {*œciliœmy}, {*œcimy}, {*œcisz}, {*œci³}, {*œci³a}, {*œci³aby}, {*œci³abym}, {*œci³abyœ}, {*œci³am}, {*œci³aœ}, {*œci³by}, {*œci³bym}, {*œci³byœ}, {*œci³em}, {*œci³eœ}, {*œci³o}, {*œci³oby}, {*œci³obym}, {*œci³obyœ}, {*œci³om}, {*œci³oœ}, {*œci³y}, {*œci³yby}, {*œci³ybyœcie}, {*œci³ybyœmy}, {*œci³yœcie}, {*œci³yœmy}, {*œæ}, {*œæcie}, {*œæcie¿}, {*œæmy}, {*œæmy¿}, {*œæ¿e}
+ areaktywnoœæ[0.19556541019955653] *areaktywnoœ
+    10 : {*æ}, {*ci}, {*ciach}, {*ciami}, {*ciom}, {*ci¹}
+ areaktywnoœæ[0.14168514412416852] *areaktywnoœ
+    177 : {*æ}, {*ci}, {*ciach}, {*ciami}, {*cie}, {*ciom}, {*ci¹}
+ areaktywnoœæ[0.13968957871396895] *areaktywnoœ
+    580 : {*æ}, {*ci}, {*ci¹}
+ areaktywnoœæ[0.13968957871396895] *areaktywnoœ
+    581 : {*æ}, {*ci}, {*cia}, {*cie}, {*ciem}, {*ciowi}, {*ciu}
+ areaktywnoœæ[0.13968957871396895] *areaktywnoœ
+    650 : {*æ}, {*ci}, {*ciach}, {*ciami}, {*cie}, {*ciom}, {*ciowie}, {*ciów}, {*ci¹}
+ areaktywnoœci[0.10975609756097561] *areaktywnoœci
+    0 : {*}
+ areaktywnoœcia[0.0917960088691796] *areaktywnoœci
+    48 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*o}, {*om}, {*¹}, {*ê}
+ areaktywnoœci[0.0917960088691796] *areaktywnoœci
+    76 : {*}, {*a}, {*ch}, {*e}, {*ego}, {*ej}, {*emu}, {*m}, {*mi}, {*¹}, {nie*}, {nie*a}, {nie*ch}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*m}, {nie*mi}, {nie*¹}
+ areaktywnoœcie[0.07583148558758315] *areaktywnoœci
+    186 : {*e}, {*}, {*ach}, {*ami}, {*om}
+ areaktywnoœci[0.06784922394678493] *areaktywnoœci
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ areaktywnoœcia[0.06784922394678493] *areaktywnoœci
+    251 : {*a}, {*}, {*ach}, {*ami}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ areaktywnoœci[0.06784922394678493] *areaktywnoœci
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ areaktywnoœci[0.0598669623059867] *areaktywnoœci
+    526 : {*}, {*ach}, {*ami}, {*om}
+ areaktywnoœcia[0.05188470066518847] *areaktywnoœci
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ areaktywnoœcia[0.05188470066518847] *areaktywnoœci
+    722 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*u}, {*¹}, {*ê}
+ areaktywnoœcia[0.037915742793791576] *areaktywnoœci
+    396 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*¹}, {*ê}
+
+efektorowych :
+ efektorowy[0.2773835920177384] *efektorow
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ efektorowy[0.26940133037694014] *efektorow
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ efektorowy[0.23148558758314855] *efektorow
+    32 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*o}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*o}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ efektorowa[0.19955654101995565] *efektorow
+    309 : {*a}, {*e}, {*ej}, {*o}, {*ych}, {*ym}, {*ymi}, {*¹}
+ efektorowy[0.19955654101995565] *efektorow
+    227 : {*y}, {*ego}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}
+ efektorowych[0.17560975609756097] *efektorowych
+    0 : {*}
+ efektorowycha[0.17161862527716187] *efektorowy
+    114 : {*cha}, {*ch}, {*chach}, {*chami}, {*cho}, {*chom}, {*chy}, {*ch¹}, {*chê}, {*sze}
+ efektorowych[0.12771618625277162] *efektorowych
+    100 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ efektorowych[0.12771618625277162] *efektorowych
+    109 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ efektorowychy[0.10576496674057649] *efektorowych
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ efektorowycho[0.07583148558758315] *efektorowych
+    190 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}
+ efektorowych[0.07583148558758315] *efektorowych
+    194 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ efektorowych[0.06784922394678493] *efektorowych
+    278 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ efektorowycha[0.06784922394678493] *efektorowych
+    276 : {*a}, {*}, {*ach}, {*ami}, {*om}
+ efektorowycha[0.0598669623059867] *efektorowych
+    395 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}
+ efektorowych[0.0598669623059867] *efektorowych
+    421 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ efektorowych[0.0458980044345898] *efektorowych
+    291 : {*}, {*a}, {*em}, {*owi}, {*u}
+ efektorowych[0.037915742793791576] *efektorowych
+    397 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+

@@ -1,0 +1,674 @@
+superpozytywnego :
+ superpozytywny[0.29933481152993346] *superpozytywn
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ superpozytywny[0.28337028824833704] *superpozytywn
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ superpozytywny[0.26940133037694014] *superpozytywn
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ superpozytywny[0.17760532150776054] *superpozytywn
+    227 : {*y}, {*ego}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}
+ superpozytywnega[0.14966740576496673] *superpozytywne
+    83 : {*ga}, {*dze}, {*g}, {*gach}, {*gami}, {*gi}, {*go}, {*gom}, {*g¹}, {*gê}
+ superpozytywnego[0.11374722838137473] *superpozytywneg
+    60 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*u}
+ superpozytywnego[0.10975609756097561] *superpozytywnego
+    0 : {*}
+
+Kaczyñski :
+ kaczyñski[0.247450110864745] *kaczyñs
+    6 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.2155210643015521] *kaczyñs
+    101 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.2015521064301552] *kaczyñs
+    70 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*k¹}
+ kaczyñski[0.193569844789357] *kaczyñs
+    129 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}
+ kaczyñska[0.16563192904656318] *kaczyñs
+    36 : {*ka}, {*ce}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczyñski[0.1556541019955654] *kaczyñs
+    249 : {*ki}, {*cy}, {*kich}, {*kiego}, {*kiemu}, {*kim}, {*kimi}
+ kaczyñsk[0.1516629711751663] *kaczyñsk
+    14 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczyñski[0.14966740576496673] *kaczyñs
+    86 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*k¹}
+ kaczyñski[0.10975609756097561] *kaczyñski
+    0 : {*}
+ kaczyñski[0.10576496674057649] *kaczyñsk
+    107 : {*i}, {*ach}, {*ami}, {*om}, {*ów}
+ kaczyñski[0.08181818181818182] *kaczyñsk
+    473 : {*i}, {*ach}, {*ami}, {*om}
+ kaczyñskie[0.07583148558758315] *kaczyñski
+    186 : {*e}, {*}, {*ach}, {*ami}, {*om}
+ kaczyñski[0.06784922394678493] *kaczyñski
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ kaczyñskia[0.06784922394678493] *kaczyñski
+    251 : {*a}, {*}, {*ach}, {*ami}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ kaczyñski[0.06784922394678493] *kaczyñski
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ kaczyñski[0.0598669623059867] *kaczyñski
+    526 : {*}, {*ach}, {*ami}, {*om}
+ kaczyñskia[0.05188470066518847] *kaczyñski
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ kaczyñskia[0.05188470066518847] *kaczyñski
+    722 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*u}, {*¹}, {*ê}
+ kaczyñskia[0.037915742793791576] *kaczyñski
+    396 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*¹}, {*ê}
+
+Kaczyñski :
+ kaczyñski[0.247450110864745] *kaczyñs
+    6 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.2155210643015521] *kaczyñs
+    101 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.2015521064301552] *kaczyñs
+    70 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*k¹}
+ kaczyñski[0.193569844789357] *kaczyñs
+    129 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}
+ kaczyñska[0.16563192904656318] *kaczyñs
+    36 : {*ka}, {*ce}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczyñski[0.1556541019955654] *kaczyñs
+    249 : {*ki}, {*cy}, {*kich}, {*kiego}, {*kiemu}, {*kim}, {*kimi}
+ kaczyñsk[0.1516629711751663] *kaczyñsk
+    14 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczyñski[0.14966740576496673] *kaczyñs
+    86 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*k¹}
+ kaczyñski[0.10975609756097561] *kaczyñski
+    0 : {*}
+ kaczyñski[0.10576496674057649] *kaczyñsk
+    107 : {*i}, {*ach}, {*ami}, {*om}, {*ów}
+ kaczyñski[0.08181818181818182] *kaczyñsk
+    473 : {*i}, {*ach}, {*ami}, {*om}
+ kaczyñskie[0.07583148558758315] *kaczyñski
+    186 : {*e}, {*}, {*ach}, {*ami}, {*om}
+ kaczyñski[0.06784922394678493] *kaczyñski
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ kaczyñskia[0.06784922394678493] *kaczyñski
+    251 : {*a}, {*}, {*ach}, {*ami}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ kaczyñski[0.06784922394678493] *kaczyñski
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ kaczyñski[0.0598669623059867] *kaczyñski
+    526 : {*}, {*ach}, {*ami}, {*om}
+ kaczyñskia[0.05188470066518847] *kaczyñski
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ kaczyñskia[0.05188470066518847] *kaczyñski
+    722 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*u}, {*¹}, {*ê}
+ kaczyñskia[0.037915742793791576] *kaczyñski
+    396 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*¹}, {*ê}
+
+Kaczmarka :
+ kaczmarka[0.22549889135254989] *kaczmar
+    5 : {*ka}, {*ce}, {*ek}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmark[0.19556541019955653] *kaczmark
+    14 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczmarek[0.18758314855875832] *kaczmar
+    22 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ kaczmarko[0.17960088691796008] *kaczmar
+    68 : {*ko}, {*ek}, {*ka}, {*kach}, {*kami}, {*kiem}, {*kom}, {*ku}
+ kaczmarkaæ[0.16563192904656318] *kaczmarka
+    29 : {*æ}, {*}, {*cie}, {*j}, {*jcie}, {*jcie¿}, {*jmy}, {*jmy¿}, {*j¹}, {*j¿e}, {*li}, {*liby}, {*libyœcie}, {*libyœmy}, {*liœcie}, {*liœmy}, {*m}, {*my}, {*nia}, {*niach}, {*niami}, {*nie}, {*niem}, {*niom}, {*niu}, {*no}, {*sz}, {*³}, {*³a}, {*³aby}, {*³abym}, {*³abyœ}, {*³am}, {*³aœ}, {*³by}, {*³bym}, {*³byœ}, {*³em}, {*³eœ}, {*³o}, {*³oby}, {*³obym}, {*³obyœ}, {*³om}, {*³oœ}, {*³y}, {*³yby}, {*³ybyœcie}, {*³ybyœmy}, {*³yœcie}, {*³yœmy}, {*ñ}
+ kaczmarkaæ[0.1516629711751663] *kaczmarka
+    9 : {*æ}, {*}, {*cie}, {*j}, {*jcie}, {*jcie¿}, {*jmy}, {*jmy¿}, {*j¹}, {*j¿e}, {*li}, {*liby}, {*libyœcie}, {*libyœmy}, {*liœcie}, {*liœmy}, {*m}, {*my}, {*na}, {*ne}, {*nego}, {*nej}, {*nemu}, {*ni}, {*nia}, {*niach}, {*niami}, {*nie}, {*niem}, {*niom}, {*niu}, {*no}, {*ny}, {*nych}, {*nym}, {*nymi}, {*n¹}, {*sz}, {*³}, {*³a}, {*³aby}, {*³abym}, {*³abyœ}, {*³am}, {*³aœ}, {*³by}, {*³bym}, {*³byœ}, {*³em}, {*³eœ}, {*³o}, {*³oby}, {*³obym}, {*³obyœ}, {*³om}, {*³oœ}, {*³y}, {*³yby}, {*³ybyœcie}, {*³ybyœmy}, {*³yœcie}, {*³yœmy}, {*ñ}
+ kaczmarek[0.14966740576496673] *kaczmar
+    91 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*kowie}, {*ku}, {*ków}
+ kaczmark[0.14966740576496673] *kaczmark
+    125 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ kaczmarka[0.1476718403547672] *kaczmar
+    450 : {*ka}, {*ce}, {*ek}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmarka[0.11175166297117517] *kaczmark
+    276 : {*a}, {*}, {*ach}, {*ami}, {*om}
+ kaczmarka[0.10975609756097561] *kaczmarka
+    0 : {*}
+ kaczmarko[0.09578713968957872] *kaczmark
+    605 : {*o}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owie}, {*u}, {*ów}
+ kaczmark[0.08980044345898004] *kaczmark
+    312 : {*}, {*a}, {*iem}, {*owi}, {*u}
+ kaczmarko[0.08181818181818182] *kaczmark
+    373 : {*o}, {*a}, {*iem}, {*u}
+ kaczmark[0.08181818181818182] *kaczmark
+    485 : {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owi}, {*u}
+ kaczmark[0.08181818181818182] *kaczmark
+    486 : {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+
+Ziobrê :
+ ziobra[0.1476718403547672] *ziob
+    445 : {*ra}, {*er}, {*r}, {*rach}, {*rami}, {*ro}, {*rom}, {*ry}, {*rze}, {*r¹}, {*rê}
+ ziobra[0.12172949002217295] *ziobr
+    40 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*¹}, {*ê}
+ ziobrê[0.10975609756097561] *ziobrê
+    0 : {*}
+ ziobra[0.08980044345898004] *ziobr
+    311 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*ów}, {*¹}, {*ê}
+ ziobra[0.08980044345898004] *ziobr
+    348 : {*a}, {*o}, {*y}, {*ze}, {*¹}, {*ê}
+ ziobra[0.08181818181818182] *ziobr
+    482 : {*a}, {*ach}, {*ami}, {*o}, {*om}, {*owie}, {*y}, {*ze}, {*ów}, {*¹}, {*ê}
+ ziobra[0.08181818181818182] *ziobr
+    523 : {*a}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*¹}, {*ê}
+
+Wassermanna :
+ wassermanny[0.19556541019955653] *wassermann
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ wassermanna[0.17760532150776054] *wasserman
+    225 : {*na}, {*ien}, {*nach}, {*nami}, {*nie}, {*no}, {*nom}, {*ny}, {*n¹}, {*nê}
+ wassermanna[0.17361419068736142] *wassermann
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ wassermann[0.16563192904656318] *wassermann
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ wassermann[0.15764966740576497] *wassermann
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ wassermanno[0.11175166297117517] *wassermann
+    285 : {*o}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ wassermanna[0.10975609756097561] *wassermanna
+    0 : {*}
+ wassermanno[0.10376940133037695] *wassermann
+    446 : {*o}, {*a}, {*em}, {*ie}, {*u}
+ wassermann[0.09778270509977827] *wassermann
+    179 : {*}, {*a}, {*em}, {*ie}, {*owi}
+ wassermanna[0.09778270509977827] *wassermann
+    202 : {*a}, {*ie}, {*o}, {*y}, {*¹}, {*ê}
+
+Biernacki :
+ biernacki[0.22549889135254989] *biernac
+    6 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ku}, {nie*k¹}
+ biernacka[0.20354767184035477] *biernac
+    5 : {*ka}, {*ce}, {*ek}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ biernack[0.19556541019955653] *biernack
+    14 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ biernacek[0.18758314855875832] *biernac
+    22 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ biernacki[0.17161862527716187] *biernac
+    101 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*ku}, {nie*k¹}
+ biernacek[0.17161862527716187] *biernac
+    91 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*kowie}, {*ku}, {*ków}
+ biernacki[0.17161862527716187] *biernac
+    129 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}
+ biernacki[0.15764966740576497] *biernac
+    70 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*k¹}
+ biernacki[0.1556541019955654] *biernac
+    249 : {*ki}, {*cy}, {*kich}, {*kiego}, {*kiemu}, {*kim}, {*kimi}
+ biernacki[0.14966740576496673] *biernac
+    86 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*k¹}
+ biernack[0.12771618625277162] *biernack
+    125 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ biernacki[0.10975609756097561] *biernacki
+    0 : {*}
+ biernacki[0.10576496674057649] *biernack
+    107 : {*i}, {*ach}, {*ami}, {*om}, {*ów}
+ biernacki[0.08181818181818182] *biernack
+    473 : {*i}, {*ach}, {*ami}, {*om}
+ biernackie[0.07583148558758315] *biernacki
+    186 : {*e}, {*}, {*ach}, {*ami}, {*om}
+ biernacki[0.06784922394678493] *biernacki
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ biernackia[0.06784922394678493] *biernacki
+    251 : {*a}, {*}, {*ach}, {*ami}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ biernacki[0.06784922394678493] *biernacki
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ biernacki[0.0598669623059867] *biernacki
+    526 : {*}, {*ach}, {*ami}, {*om}
+ biernackia[0.05188470066518847] *biernacki
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ biernackia[0.05188470066518847] *biernacki
+    722 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*u}, {*¹}, {*ê}
+ biernackia[0.037915742793791576] *biernacki
+    396 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*¹}, {*ê}
+
+Kaczmarka :
+ kaczmarka[0.22549889135254989] *kaczmar
+    5 : {*ka}, {*ce}, {*ek}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmark[0.19556541019955653] *kaczmark
+    14 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczmarek[0.18758314855875832] *kaczmar
+    22 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ kaczmarko[0.17960088691796008] *kaczmar
+    68 : {*ko}, {*ek}, {*ka}, {*kach}, {*kami}, {*kiem}, {*kom}, {*ku}
+ kaczmarkaæ[0.16563192904656318] *kaczmarka
+    29 : {*æ}, {*}, {*cie}, {*j}, {*jcie}, {*jcie¿}, {*jmy}, {*jmy¿}, {*j¹}, {*j¿e}, {*li}, {*liby}, {*libyœcie}, {*libyœmy}, {*liœcie}, {*liœmy}, {*m}, {*my}, {*nia}, {*niach}, {*niami}, {*nie}, {*niem}, {*niom}, {*niu}, {*no}, {*sz}, {*³}, {*³a}, {*³aby}, {*³abym}, {*³abyœ}, {*³am}, {*³aœ}, {*³by}, {*³bym}, {*³byœ}, {*³em}, {*³eœ}, {*³o}, {*³oby}, {*³obym}, {*³obyœ}, {*³om}, {*³oœ}, {*³y}, {*³yby}, {*³ybyœcie}, {*³ybyœmy}, {*³yœcie}, {*³yœmy}, {*ñ}
+ kaczmarkaæ[0.1516629711751663] *kaczmarka
+    9 : {*æ}, {*}, {*cie}, {*j}, {*jcie}, {*jcie¿}, {*jmy}, {*jmy¿}, {*j¹}, {*j¿e}, {*li}, {*liby}, {*libyœcie}, {*libyœmy}, {*liœcie}, {*liœmy}, {*m}, {*my}, {*na}, {*ne}, {*nego}, {*nej}, {*nemu}, {*ni}, {*nia}, {*niach}, {*niami}, {*nie}, {*niem}, {*niom}, {*niu}, {*no}, {*ny}, {*nych}, {*nym}, {*nymi}, {*n¹}, {*sz}, {*³}, {*³a}, {*³aby}, {*³abym}, {*³abyœ}, {*³am}, {*³aœ}, {*³by}, {*³bym}, {*³byœ}, {*³em}, {*³eœ}, {*³o}, {*³oby}, {*³obym}, {*³obyœ}, {*³om}, {*³oœ}, {*³y}, {*³yby}, {*³ybyœcie}, {*³ybyœmy}, {*³yœcie}, {*³yœmy}, {*ñ}
+ kaczmarek[0.14966740576496673] *kaczmar
+    91 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*kowie}, {*ku}, {*ków}
+ kaczmark[0.14966740576496673] *kaczmark
+    125 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ kaczmarka[0.1476718403547672] *kaczmar
+    450 : {*ka}, {*ce}, {*ek}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmarka[0.11175166297117517] *kaczmark
+    276 : {*a}, {*}, {*ach}, {*ami}, {*om}
+ kaczmarka[0.10975609756097561] *kaczmarka
+    0 : {*}
+ kaczmarko[0.09578713968957872] *kaczmark
+    605 : {*o}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owie}, {*u}, {*ów}
+ kaczmark[0.08980044345898004] *kaczmark
+    312 : {*}, {*a}, {*iem}, {*owi}, {*u}
+ kaczmarko[0.08181818181818182] *kaczmark
+    373 : {*o}, {*a}, {*iem}, {*u}
+ kaczmark[0.08181818181818182] *kaczmark
+    485 : {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owi}, {*u}
+ kaczmark[0.08181818181818182] *kaczmark
+    486 : {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+
+Kaczmarek :
+ kaczmarka[0.22549889135254989] *kaczmar
+    5 : {*ka}, {*ce}, {*ek}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmarek[0.18758314855875832] *kaczmar
+    22 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ kaczmarek[0.17960088691796008] *kaczmar
+    59 : {*ek}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ kaczmarko[0.17960088691796008] *kaczmar
+    68 : {*ko}, {*ek}, {*ka}, {*kach}, {*kami}, {*kiem}, {*kom}, {*ku}
+ kaczmarki[0.17161862527716187] *kaczmar
+    121 : {*ki}, {*ek}, {*kach}, {*kami}, {*kom}
+ kaczmarek[0.14966740576496673] *kaczmar
+    91 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*kowie}, {*ku}, {*ków}
+ kaczmarka[0.1476718403547672] *kaczmar
+    450 : {*ka}, {*ce}, {*ek}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmareka[0.14368070953436807] *kaczmare
+    36 : {*ka}, {*ce}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmarek[0.12172949002217295] *kaczmare
+    21 : {*k}, {*cy}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ kaczmarek[0.12172949002217295] *kaczmarek
+    23 : {*}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczmarek[0.10776053215077605] *kaczmarek
+    14 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczmareko[0.0917960088691796] *kaczmarek
+    60 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*u}
+ kaczmarek[0.08381374722838138] *kaczmarek
+    125 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ kaczmarek[0.0458980044345898] *kaczmarek
+    312 : {*}, {*a}, {*iem}, {*owi}, {*u}
+ kaczmarek[0.037915742793791576] *kaczmarek
+    485 : {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owi}, {*u}
+ kaczmarek[0.037915742793791576] *kaczmarek
+    486 : {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+
+Kaczmarek :
+ kaczmarka[0.22549889135254989] *kaczmar
+    5 : {*ka}, {*ce}, {*ek}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmarek[0.18758314855875832] *kaczmar
+    22 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ kaczmarek[0.17960088691796008] *kaczmar
+    59 : {*ek}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ kaczmarko[0.17960088691796008] *kaczmar
+    68 : {*ko}, {*ek}, {*ka}, {*kach}, {*kami}, {*kiem}, {*kom}, {*ku}
+ kaczmarki[0.17161862527716187] *kaczmar
+    121 : {*ki}, {*ek}, {*kach}, {*kami}, {*kom}
+ kaczmarek[0.14966740576496673] *kaczmar
+    91 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*kowie}, {*ku}, {*ków}
+ kaczmarka[0.1476718403547672] *kaczmar
+    450 : {*ka}, {*ce}, {*ek}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmareka[0.14368070953436807] *kaczmare
+    36 : {*ka}, {*ce}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmarek[0.12172949002217295] *kaczmare
+    21 : {*k}, {*cy}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ kaczmarek[0.12172949002217295] *kaczmarek
+    23 : {*}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczmarek[0.10776053215077605] *kaczmarek
+    14 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczmareko[0.0917960088691796] *kaczmarek
+    60 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*u}
+ kaczmarek[0.08381374722838138] *kaczmarek
+    125 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ kaczmarek[0.0458980044345898] *kaczmarek
+    312 : {*}, {*a}, {*iem}, {*owi}, {*u}
+ kaczmarek[0.037915742793791576] *kaczmarek
+    485 : {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owi}, {*u}
+ kaczmarek[0.037915742793791576] *kaczmarek
+    486 : {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+
+Sopotu :
+ sopot[0.19556541019955653] *sopo
+    15 : {*t}, {*cie}, {*tach}, {*tami}, {*tem}, {*tom}, {*towi}, {*tu}, {*ty}, {*tów}
+ sopoto[0.16363636363636364] *sopo
+    159 : {*to}, {*cie}, {*t}, {*ta}, {*tach}, {*tami}, {*tem}, {*tom}, {*tu}
+ sopot[0.14168514412416852] *sopo
+    206 : {*t}, {*cie}, {*ta}, {*tach}, {*tami}, {*tem}, {*tom}, {*towi}, {*tu}, {*ty}, {*tów}
+ sopot[0.13370288248337028] *sopo
+    316 : {*t}, {*ci}, {*cie}, {*ta}, {*tach}, {*tami}, {*tem}, {*tom}, {*towi}, {*tu}, {*ty}, {*tów}
+ sopotu[0.10975609756097561] *sopotu
+    0 : {*}
+
+Kaczmarek :
+ kaczmarka[0.22549889135254989] *kaczmar
+    5 : {*ka}, {*ce}, {*ek}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmarek[0.18758314855875832] *kaczmar
+    22 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ kaczmarek[0.17960088691796008] *kaczmar
+    59 : {*ek}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ kaczmarko[0.17960088691796008] *kaczmar
+    68 : {*ko}, {*ek}, {*ka}, {*kach}, {*kami}, {*kiem}, {*kom}, {*ku}
+ kaczmarki[0.17161862527716187] *kaczmar
+    121 : {*ki}, {*ek}, {*kach}, {*kami}, {*kom}
+ kaczmarek[0.14966740576496673] *kaczmar
+    91 : {*ek}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*kowie}, {*ku}, {*ków}
+ kaczmarka[0.1476718403547672] *kaczmar
+    450 : {*ka}, {*ce}, {*ek}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmareka[0.14368070953436807] *kaczmare
+    36 : {*ka}, {*ce}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczmarek[0.12172949002217295] *kaczmare
+    21 : {*k}, {*cy}, {*ka}, {*kach}, {*kami}, {*ki}, {*kiem}, {*kom}, {*kowi}, {*ku}, {*ków}
+ kaczmarek[0.12172949002217295] *kaczmarek
+    23 : {*}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczmarek[0.10776053215077605] *kaczmarek
+    14 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczmareko[0.0917960088691796] *kaczmarek
+    60 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*u}
+ kaczmarek[0.08381374722838138] *kaczmarek
+    125 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ kaczmarek[0.0458980044345898] *kaczmarek
+    312 : {*}, {*a}, {*iem}, {*owi}, {*u}
+ kaczmarek[0.037915742793791576] *kaczmarek
+    485 : {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owi}, {*u}
+ kaczmarek[0.037915742793791576] *kaczmarek
+    486 : {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+
+Kaczyñskich :
+ kaczyñski[0.3352549889135255] *kaczyñs
+    6 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.3033259423503326] *kaczyñs
+    101 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.2893569844789357] *kaczyñs
+    70 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*k¹}
+ kaczyñski[0.28137472283813747] *kaczyñs
+    129 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}
+ kaczyñski[0.2434589800443459] *kaczyñs
+    249 : {*ki}, {*cy}, {*kich}, {*kiego}, {*kiemu}, {*kim}, {*kimi}
+ kaczyñski[0.23747228381374721] *kaczyñs
+    86 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*k¹}
+ kaczyñskicha[0.17161862527716187] *kaczyñski
+    114 : {*cha}, {*ch}, {*chach}, {*chami}, {*cho}, {*chom}, {*chy}, {*ch¹}, {*chê}, {*sze}
+ kaczyñski[0.1556541019955654] *kaczyñski
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ kaczyñski[0.1556541019955654] *kaczyñski
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ kaczyñskich[0.15365853658536585] *kaczyñskich
+    0 : {*}
+ kaczyñskich[0.12771618625277162] *kaczyñskich
+    100 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ kaczyñskich[0.12771618625277162] *kaczyñskich
+    109 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ kaczyñskichy[0.10576496674057649] *kaczyñskich
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ kaczyñskicho[0.07583148558758315] *kaczyñskich
+    190 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}
+ kaczyñskich[0.07583148558758315] *kaczyñskich
+    194 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ kaczyñskich[0.06784922394678493] *kaczyñskich
+    278 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ kaczyñskicha[0.06784922394678493] *kaczyñskich
+    276 : {*a}, {*}, {*ach}, {*ami}, {*om}
+ kaczyñskicha[0.0598669623059867] *kaczyñskich
+    395 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}
+ kaczyñskich[0.0598669623059867] *kaczyñskich
+    421 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ kaczyñskich[0.0458980044345898] *kaczyñskich
+    291 : {*}, {*a}, {*em}, {*owi}, {*u}
+ kaczyñskich[0.037915742793791576] *kaczyñskich
+    397 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+
+Kornatowskiego :
+ kornatowski[0.3572062084257206] *kornatows
+    6 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ku}, {nie*k¹}
+ kornatowski[0.3552106430155211] *kornatows
+    70 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*k¹}
+ kornatowski[0.34722838137472284] *kornatows
+    101 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*ku}, {nie*k¹}
+ kornatowski[0.3252771618625277] *kornatows
+    129 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}
+ kornatowski[0.28736141906873613] *kornatows
+    249 : {*ki}, {*cy}, {*kich}, {*kiego}, {*kiemu}, {*kim}, {*kimi}
+ kornatowski[0.28137472283813747] *kornatows
+    86 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*k¹}
+ kornatowski[0.19955654101995565] *kornatowski
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ kornatowski[0.19955654101995565] *kornatowski
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ kornatowskiega[0.14966740576496673] *kornatowskie
+    83 : {*ga}, {*dze}, {*g}, {*gach}, {*gami}, {*gi}, {*go}, {*gom}, {*g¹}, {*gê}
+ kornatowskiego[0.11374722838137473] *kornatowskieg
+    60 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*iem}, {*om}, {*u}
+ kornatowskiego[0.10975609756097561] *kornatowskiego
+    0 : {*}
+
+Rymkiewicz :
+ rymkiewicz[0.15764966740576497] *rymkiewicz
+    75 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ rymkiewicz[0.14368070953436807] *rymkiewicz
+    35 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ rymkiewicz[0.13370288248337028] *rymkiewicz
+    277 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}
+ rymkiewicz[0.12771618625277162] *rymkiewicz
+    92 : {*}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ rymkiewicz[0.10975609756097561] *rymkiewicz
+    0 : {*}
+ rymkiewiczyæ[0.09977827050997783] *rymkiewicz
+    39 : {*yæ}, {*}, {*cie}, {*cie¿}, {*eni}, {*enia}, {*eniach}, {*eniami}, {*enie}, {*eniem}, {*eniom}, {*eniu}, {*eñ}, {*my}, {*my¿}, {*ona}, {*one}, {*onego}, {*onej}, {*onemu}, {*ono}, {*ony}, {*onych}, {*onym}, {*onymi}, {*on¹}, {*y}, {*ycie}, {*yli}, {*yliby}, {*ylibyœcie}, {*ylibyœmy}, {*yliœcie}, {*yliœmy}, {*ymy}, {*ysz}, {*y³}, {*y³a}, {*y³aby}, {*y³abym}, {*y³abyœ}, {*y³am}, {*y³aœ}, {*y³by}, {*y³bym}, {*y³byœ}, {*y³em}, {*y³eœ}, {*y³o}, {*y³oby}, {*y³obym}, {*y³obyœ}, {*y³om}, {*y³oœ}, {*y³y}, {*y³yby}, {*y³ybyœcie}, {*y³ybyœmy}, {*y³yœcie}, {*y³yœmy}, {*¹}, {*ê}, {*¿e}
+ rymkiewicz[0.08381374722838138] *rymkiewicz
+    89 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ rymkiewicz[0.08381374722838138] *rymkiewicz
+    99 : {*}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ rymkiewicza[0.08381374722838138] *rymkiewicz
+    119 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ rymkiewicz[0.07583148558758315] *rymkiewicz
+    145 : {*}, {*ach}, {*ami}, {*e}, {*om}, {*y}, {*¹}
+ rymkiewiczo[0.07583148558758315] *rymkiewicz
+    190 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}
+ rymkiewicz[0.07583148558758315] *rymkiewicz
+    193 : {*}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*y}
+ rymkiewicz[0.06784922394678493] *rymkiewicz
+    278 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ rymkiewicz[0.06186252771618625] *rymkiewicz
+    100 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ rymkiewicz[0.06186252771618625] *rymkiewicz
+    109 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ rymkiewicz[0.0598669623059867] *rymkiewicz
+    397 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ rymkiewicz[0.0598669623059867] *rymkiewicz
+    421 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ rymkiewicza[0.05188470066518847] *rymkiewicz
+    721 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ rymkiewicz[0.05188470066518847] *rymkiewicz
+    725 : {*}, {*ach}, {*ami}, {*om}, {*y}, {*¹}
+ rymkiewiczy[0.0458980044345898] *rymkiewicz
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+
+Kaczyñski :
+ kaczyñski[0.247450110864745] *kaczyñs
+    6 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.2155210643015521] *kaczyñs
+    101 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.2015521064301552] *kaczyñs
+    70 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*k¹}
+ kaczyñski[0.193569844789357] *kaczyñs
+    129 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}
+ kaczyñska[0.16563192904656318] *kaczyñs
+    36 : {*ka}, {*ce}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczyñski[0.1556541019955654] *kaczyñs
+    249 : {*ki}, {*cy}, {*kich}, {*kiego}, {*kiemu}, {*kim}, {*kimi}
+ kaczyñsk[0.1516629711751663] *kaczyñsk
+    14 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczyñski[0.14966740576496673] *kaczyñs
+    86 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*k¹}
+ kaczyñski[0.10975609756097561] *kaczyñski
+    0 : {*}
+ kaczyñski[0.10576496674057649] *kaczyñsk
+    107 : {*i}, {*ach}, {*ami}, {*om}, {*ów}
+ kaczyñski[0.08181818181818182] *kaczyñsk
+    473 : {*i}, {*ach}, {*ami}, {*om}
+ kaczyñskie[0.07583148558758315] *kaczyñski
+    186 : {*e}, {*}, {*ach}, {*ami}, {*om}
+ kaczyñski[0.06784922394678493] *kaczyñski
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ kaczyñskia[0.06784922394678493] *kaczyñski
+    251 : {*a}, {*}, {*ach}, {*ami}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ kaczyñski[0.06784922394678493] *kaczyñski
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ kaczyñski[0.0598669623059867] *kaczyñski
+    526 : {*}, {*ach}, {*ami}, {*om}
+ kaczyñskia[0.05188470066518847] *kaczyñski
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ kaczyñskia[0.05188470066518847] *kaczyñski
+    722 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*u}, {*¹}, {*ê}
+ kaczyñskia[0.037915742793791576] *kaczyñski
+    396 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*¹}, {*ê}
+
+Kaczyñski :
+ kaczyñski[0.247450110864745] *kaczyñs
+    6 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.2155210643015521] *kaczyñs
+    101 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.2015521064301552] *kaczyñs
+    70 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*k¹}
+ kaczyñski[0.193569844789357] *kaczyñs
+    129 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}
+ kaczyñska[0.16563192904656318] *kaczyñs
+    36 : {*ka}, {*ce}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczyñski[0.1556541019955654] *kaczyñs
+    249 : {*ki}, {*cy}, {*kich}, {*kiego}, {*kiemu}, {*kim}, {*kimi}
+ kaczyñsk[0.1516629711751663] *kaczyñsk
+    14 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczyñski[0.14966740576496673] *kaczyñs
+    86 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*k¹}
+ kaczyñski[0.10975609756097561] *kaczyñski
+    0 : {*}
+ kaczyñski[0.10576496674057649] *kaczyñsk
+    107 : {*i}, {*ach}, {*ami}, {*om}, {*ów}
+ kaczyñski[0.08181818181818182] *kaczyñsk
+    473 : {*i}, {*ach}, {*ami}, {*om}
+ kaczyñskie[0.07583148558758315] *kaczyñski
+    186 : {*e}, {*}, {*ach}, {*ami}, {*om}
+ kaczyñski[0.06784922394678493] *kaczyñski
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ kaczyñskia[0.06784922394678493] *kaczyñski
+    251 : {*a}, {*}, {*ach}, {*ami}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ kaczyñski[0.06784922394678493] *kaczyñski
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ kaczyñski[0.0598669623059867] *kaczyñski
+    526 : {*}, {*ach}, {*ami}, {*om}
+ kaczyñskia[0.05188470066518847] *kaczyñski
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ kaczyñskia[0.05188470066518847] *kaczyñski
+    722 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*u}, {*¹}, {*ê}
+ kaczyñskia[0.037915742793791576] *kaczyñski
+    396 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*¹}, {*ê}
+
+Kaczyñski :
+ kaczyñski[0.247450110864745] *kaczyñs
+    6 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.2155210643015521] *kaczyñs
+    101 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*ku}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*ku}, {nie*k¹}
+ kaczyñski[0.2015521064301552] *kaczyñs
+    70 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*k¹}
+ kaczyñski[0.193569844789357] *kaczyñs
+    129 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*k¹}
+ kaczyñska[0.16563192904656318] *kaczyñs
+    36 : {*ka}, {*ce}, {*k}, {*kach}, {*kami}, {*ki}, {*ko}, {*kom}, {*k¹}, {*kê}
+ kaczyñski[0.1556541019955654] *kaczyñs
+    249 : {*ki}, {*cy}, {*kich}, {*kiego}, {*kiemu}, {*kim}, {*kimi}
+ kaczyñsk[0.1516629711751663] *kaczyñsk
+    14 : {*}, {*a}, {*ach}, {*ami}, {*i}, {*iem}, {*om}, {*owi}, {*u}, {*ów}
+ kaczyñski[0.14966740576496673] *kaczyñs
+    86 : {*ki}, {*cy}, {*ka}, {*kich}, {*kie}, {*kiego}, {*kiej}, {*kiemu}, {*kim}, {*kimi}, {*ko}, {*k¹}, {nie*cy}, {nie*ka}, {nie*ki}, {nie*kich}, {nie*kie}, {nie*kiego}, {nie*kiej}, {nie*kiemu}, {nie*kim}, {nie*kimi}, {nie*ko}, {nie*k¹}
+ kaczyñski[0.10975609756097561] *kaczyñski
+    0 : {*}
+ kaczyñski[0.10576496674057649] *kaczyñsk
+    107 : {*i}, {*ach}, {*ami}, {*om}, {*ów}
+ kaczyñski[0.08181818181818182] *kaczyñsk
+    473 : {*i}, {*ach}, {*ami}, {*om}
+ kaczyñskie[0.07583148558758315] *kaczyñski
+    186 : {*e}, {*}, {*ach}, {*ami}, {*om}
+ kaczyñski[0.06784922394678493] *kaczyñski
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ kaczyñskia[0.06784922394678493] *kaczyñski
+    251 : {*a}, {*}, {*ach}, {*ami}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ kaczyñski[0.06784922394678493] *kaczyñski
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ kaczyñski[0.0598669623059867] *kaczyñski
+    526 : {*}, {*ach}, {*ami}, {*om}
+ kaczyñskia[0.05188470066518847] *kaczyñski
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ kaczyñskia[0.05188470066518847] *kaczyñski
+    722 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*u}, {*¹}, {*ê}
+ kaczyñskia[0.037915742793791576] *kaczyñski
+    396 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*¹}, {*ê}
+
+Solorz :
+ solorz[0.14368070953436807] *solorz
+    35 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ solorzyæ[0.12771618625277162] *solorz
+    88 : {*yæ}, {*}, {*cie}, {*cie¿}, {*enia}, {*eniach}, {*eniami}, {*enie}, {*eniem}, {*eniom}, {*eniu}, {*eñ}, {*my}, {*my¿}, {*ono}, {*y}, {*ycie}, {*yli}, {*yliby}, {*ylibyœcie}, {*ylibyœmy}, {*yliœcie}, {*yliœmy}, {*ymy}, {*ysz}, {*y³}, {*y³a}, {*y³aby}, {*y³abym}, {*y³abyœ}, {*y³am}, {*y³aœ}, {*y³by}, {*y³bym}, {*y³byœ}, {*y³em}, {*y³eœ}, {*y³o}, {*y³oby}, {*y³obym}, {*y³obyœ}, {*y³om}, {*y³oœ}, {*y³y}, {*y³yby}, {*y³ybyœcie}, {*y³ybyœmy}, {*y³yœcie}, {*y³yœmy}, {*¹}, {*ê}, {*¿e}
+ soloraæ[0.1197339246119734] *solor
+    157 : {*aæ}, {*ali}, {*aliby}, {*alibyœcie}, {*alibyœmy}, {*aliœcie}, {*aliœmy}, {*ana}, {*ane}, {*anego}, {*anej}, {*anemu}, {*ani}, {*ania}, {*aniach}, {*aniami}, {*anie}, {*aniem}, {*aniom}, {*aniu}, {*ano}, {*any}, {*anych}, {*anym}, {*anymi}, {*an¹}, {*a³}, {*a³a}, {*a³aby}, {*a³abym}, {*a³abyœ}, {*a³am}, {*a³aœ}, {*a³by}, {*a³bym}, {*a³byœ}, {*a³em}, {*a³eœ}, {*a³o}, {*a³oby}, {*a³obym}, {*a³obyœ}, {*a³om}, {*a³oœ}, {*a³y}, {*a³yby}, {*a³ybyœcie}, {*a³ybyœmy}, {*a³yœcie}, {*a³yœmy}, {*añ}, {*z}, {*zcie}, {*zcie¿}, {*ze}, {*zecie}, {*zemy}, {*zesz}, {*zmy}, {*zmy¿}, {*z¹}, {*zê}, {*z¿e}
+ solorz[0.10975609756097561] *solorz
+    0 : {*}
+ solorz[0.10576496674057649] *solorz
+    99 : {*}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ solorza[0.10576496674057649] *solorz
+    119 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ solorz[0.09778270509977827] *solorz
+    145 : {*}, {*ach}, {*ami}, {*e}, {*om}, {*y}, {*¹}
+ solorz[0.09778270509977827] *solorz
+    194 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ solorz[0.0917960088691796] *solorz
+    75 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ solorz[0.08381374722838138] *solorz
+    92 : {*}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ solorz[0.08181818181818182] *solorz
+    529 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ soloraæ[0.0738359201773836] *solor
+    633 : {*aæ}, {*aj}, {*ajcie}, {*ajcie¿}, {*ajmy}, {*ajmy¿}, {*aj¿e}, {*ali}, {*aliby}, {*alibyœcie}, {*alibyœmy}, {*aliœcie}, {*aliœmy}, {*ana}, {*ane}, {*anego}, {*anej}, {*anemu}, {*ani}, {*ania}, {*aniach}, {*aniami}, {*anie}, {*aniem}, {*aniom}, {*aniu}, {*ano}, {*any}, {*anych}, {*anym}, {*anymi}, {*an¹}, {*a³}, {*a³a}, {*a³aby}, {*a³abym}, {*a³abyœ}, {*a³am}, {*a³aœ}, {*a³by}, {*a³bym}, {*a³byœ}, {*a³em}, {*a³eœ}, {*a³o}, {*a³oby}, {*a³obym}, {*a³obyœ}, {*a³om}, {*a³oœ}, {*a³y}, {*a³yby}, {*a³ybyœcie}, {*a³ybyœmy}, {*a³yœcie}, {*a³yœmy}, {*añ}, {*z}, {*zcie}, {*zcie¿}, {*ze}, {*zecie}, {*zemy}, {*zesz}, {*zmy}, {*zmy¿}, {*z¹}, {*zê}, {*z¿e}
+ solorz[0.06784922394678493] *solorz
+    278 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ solorz[0.06186252771618625] *solorz
+    100 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ solorz[0.06186252771618625] *solorz
+    109 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ solorz[0.0598669623059867] *solorz
+    397 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ solorz[0.0598669623059867] *solorz
+    421 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ solorza[0.05188470066518847] *solorz
+    721 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ solorz[0.05188470066518847] *solorz
+    725 : {*}, {*ach}, {*ami}, {*om}, {*y}, {*¹}
+ solorzy[0.0458980044345898] *solorz
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+
+jednoczesnie :
+ jednoczesno[0.1556541019955654] *jednoczesn
+    285 : {*o}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ jednoczesno[0.1476718403547672] *jednoczesn
+    446 : {*o}, {*a}, {*em}, {*ie}, {*u}
+ jednoczesn[0.14168514412416852] *jednoczesn
+    179 : {*}, {*a}, {*em}, {*ie}, {*owi}
+ jednoczesna[0.14168514412416852] *jednoczesn
+    202 : {*a}, {*ie}, {*o}, {*y}, {*¹}, {*ê}
+ jednoczesnia[0.13569844789356986] *jednoczesni
+    48 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*o}, {*om}, {*¹}, {*ê}
+ jednoczesnie[0.12771618625277162] *jednoczesni
+    87 : {*e}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}
+ jednoczesnie[0.1197339246119734] *jednoczesni
+    166 : {*e}, {*ach}, {*ami}, {*i}, {*om}
+ jednoczesnie[0.1197339246119734] *jednoczesni
+    185 : {*e}, {*ach}, {*ami}, {*om}, {*ów}
+ jednoczesnie[0.1197339246119734] *jednoczesni
+    186 : {*e}, {*}, {*ach}, {*ami}, {*om}
+ jednoczesnio[0.1197339246119734] *jednoczesni
+    204 : {*o}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owie}, {*u}, {*ów}
+ jednoczesni[0.11773835920177383] *jednoczesni
+    728 : {*}, {*a}, {*ch}, {*e}, {*ego}, {*ej}, {*emu}, {*m}, {*mi}, {*¹}
+ jednoczesnie[0.11175166297117517] *jednoczesni
+    300 : {*e}, {*ach}, {*ami}, {*i}, {*om}, {*ów}
+ jednoczesnie[0.10975609756097561] *jednoczesnie
+    0 : {*}
+ jednoczesnio[0.10376940133037695] *jednoczesni
+    355 : {*o}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*u}, {*ów}
+ jednoczesnie[0.10376940133037695] *jednoczesni
+    360 : {*e}, {*a}, {*em}, {*u}
+ jednoczesnia[0.09578713968957872] *jednoczesni
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ jednoczesnio[0.09578713968957872] *jednoczesni
+    678 : {*o}, {*ach}, {*ami}, {*e}, {*om}, {*owie}, {*ów}
+ jednoczesnia[0.09578713968957872] *jednoczesni
+    722 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*u}, {*¹}, {*ê}
+ jednoczesnia[0.08181818181818182] *jednoczesni
+    396 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*¹}, {*ê}
+

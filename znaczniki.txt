@@ -1,0 +1,70 @@
++    * adj - przymiotnik (np. "niemiecki")
++    * adjp - przymiotnik poprzyimkowy (np. "niemiecku")
++    * adv - przys³ówek (np. "g³upio")
++    * conj - spójnik
++    * ign - ignorowana czê¶æ mowy
++    * indecl - nieodmienna czê¶æ mowy
++    * num - liczebnik
++    * pact - imies³ów przymiotnikowy czynny
++    * pant - imies³ów przys³ówkowy uprzedni
++    * pcon - imies³ów przys³ówkowy wspó³czesny
++    * ppas - imies³ów przymiotnikowy bierny
++    * ppron12 - zaimek nietrzecioosobowy
++    * ppron3 - zaimek trzecioosobowy
++    * pred - predykatyw (np. "trzeba")
++    * siebie - zaimek "siebie"
++    * prep - przyimek
++    * subst - rzeczownik
++    * verb - czasownik
++    * depr - forma deprecjatywna
++    * ger - rzeczownik ods³owny
+
+Atrybuty podstawowych form:
+
++    * sg - liczba pojedyncza
++    * pl - liczba mnoga
+
++    * indecl - forma nieodmienna
++    * irreg - forma nieregularna (nierozpoznana dok³adniej pod wzglêdem warto¶ci atrybutów, np. subst:irreg)
+
++    * nom - mianownik
++    * gen - dope³niacz
++    * acc - biernik
++    * dat - celownik
++    * inst - narzêdnik
++    * loc - miejscownik
++    * voc - wo³acz
+
++    * m (a tak¿e, w sposób nie do koñca uporz±dkowany, m1... m4) - rodzaj mêski
++    * n - rodzaj nijaki
++    * f - rodzaj ¿eñski
+	
++    * pos - stopieñ równy
++    * comp - stopieñ wy¿szy
++    * sup - stopieñ najwy¿szy
+	
++    * pri - pierwsza osoba
++    * sec - druga osoba
++    * tri - trzecia osoba
+
++    * perf - czasownik dokonany
++    * imperf - czasownik niedokonany
++    * ?perf - czasownik nierozpoznany pod wzglêdem aspektu
+
++    * aff - forma niezanegowana
++    * neg - forma zanegowana
+
++    * praep - forma poprzyimkowa
++    * npraep - forma niepoprzyimkowa
+
++    * nakc - forma nieakcentowana zaimka
++    * akc - forma akcentowana zaimka
+	
+    * fin - forma nieprzesz³a
+    * bedzie - forma przysz³a "byæ"
+    * refl - forma zwrotna czasownika [nie wystêpuje w znacznikach IPI]
+    * imps - forma bezosobowa
+    * impt - tryb rozkazuj±cy
+    * inf - bezokolicznik
+    * praet - forma przesz³a czasownika (pseudoimies³ów)
+    * pot - tryb przypuszczaj±cy [nie wystêpuje w znacznikach IPI]

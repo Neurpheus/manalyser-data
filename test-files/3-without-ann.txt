@@ -1,0 +1,916 @@
+World :
+ world[0.10975609756097561] *world
+    0 : {*}
+ worldy[0.06186252771618625] *world
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ world[0.0458980044345898] *world
+    338 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*zi}, {*zie}, {*ów}
+ worlda[0.0458980044345898] *world
+    349 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*ów}, {*¹}, {*ê}
+ world[0.037915742793791576] *world
+    527 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+
+Trade :
+ trade[0.10975609756097561] *trade
+    0 : {*}
+ trady[0.08181818181818182] *trad
+    434 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*o}, {*ych}, {*ym}, {*ymi}, {*zi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*o}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*zi}, {nie*¹}
+
+Manhattan :
+ manhattana[0.12971175166297116] *manhattan
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ manhattan[0.11574279379157427] *manhattan
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ manhattan[0.11374722838137473] *manhattan
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ manhattan[0.10975609756097561] *manhattan
+    0 : {*}
+ manhattany[0.10576496674057649] *manhattan
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ manhattan[0.10576496674057649] *manhattan
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ manhattano[0.09977827050997783] *manhattan
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ manhattan[0.09977827050997783] *manhattan
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ manhattan[0.08381374722838138] *manhattan
+    105 : {*}, {nie*}
+ manhattan[0.07583148558758315] *manhattan
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ manhattan[0.07583148558758315] *manhattan
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ manhattany[0.06784922394678493] *manhattan
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ manhattan[0.06784922394678493] *manhattan
+    263 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}
+ manhattan[0.06784922394678493] *manhattan
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ manhattan[0.06784922394678493] *manhattan
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+ manhattan[0.06784922394678493] *manhattan
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ manhattan[0.0598669623059867] *manhattan
+    363 : {*}, {*ach}, {*ami}, {*om}, {*owie}, {*y}, {*ów}
+ manhattan[0.0598669623059867] *manhattan
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ manhattan[0.0598669623059867] *manhattan
+    528 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ manhattan[0.053880266075388025] *manhattan
+    179 : {*}, {*a}, {*em}, {*ie}, {*owi}
+
+World :
+ world[0.10975609756097561] *world
+    0 : {*}
+ worldy[0.06186252771618625] *world
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ world[0.0458980044345898] *world
+    338 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*zi}, {*zie}, {*ów}
+ worlda[0.0458980044345898] *world
+    349 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*ów}, {*¹}, {*ê}
+ world[0.037915742793791576] *world
+    527 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+
+Trade :
+ trade[0.10975609756097561] *trade
+    0 : {*}
+ trady[0.08181818181818182] *trad
+    434 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*o}, {*ych}, {*ym}, {*ymi}, {*zi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*o}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*zi}, {nie*¹}
+
+World :
+ world[0.10975609756097561] *world
+    0 : {*}
+ worldy[0.06186252771618625] *world
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ world[0.0458980044345898] *world
+    338 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*zi}, {*zie}, {*ów}
+ worlda[0.0458980044345898] *world
+    349 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*ów}, {*¹}, {*ê}
+ world[0.037915742793791576] *world
+    527 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+
+Trade :
+ trade[0.10975609756097561] *trade
+    0 : {*}
+ trady[0.08181818181818182] *trad
+    434 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*o}, {*ych}, {*ym}, {*ymi}, {*zi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*o}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*zi}, {nie*¹}
+
+World :
+ world[0.10975609756097561] *world
+    0 : {*}
+ worldy[0.06186252771618625] *world
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ world[0.0458980044345898] *world
+    338 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*zi}, {*zie}, {*ów}
+ worlda[0.0458980044345898] *world
+    349 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*ów}, {*¹}, {*ê}
+ world[0.037915742793791576] *world
+    527 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+
+Trade :
+ trade[0.10975609756097561] *trade
+    0 : {*}
+ trady[0.08181818181818182] *trad
+    434 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*o}, {*ych}, {*ym}, {*ymi}, {*zi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*o}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*zi}, {nie*¹}
+
+United :
+ united[0.10975609756097561] *united
+    0 : {*}
+ united[0.09778270509977827] *united
+    160 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*zie}, {*ów}
+ united[0.0917960088691796] *united
+    46 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+ uniteda[0.0917960088691796] *united
+    49 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*¹}, {*ê}
+ united[0.08980044345898004] *united
+    237 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*zi}, {*zie}, {*ów}
+ united[0.08381374722838138] *united
+    111 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*zie}, {*ów}
+ united[0.06784922394678493] *united
+    221 : {*}, {*ach}, {*ami}, {*om}, {*y}, {*ów}
+ unitedy[0.06784922394678493] *united
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ unitedy[0.06186252771618625] *united
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ united[0.0458980044345898] *united
+    338 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*zi}, {*zie}, {*ów}
+ uniteda[0.0458980044345898] *united
+    349 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*ów}, {*¹}, {*ê}
+ united[0.037915742793791576] *united
+    527 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+
+Airlines :
+ airlines[0.11574279379157427] *airlines
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ airlines[0.10975609756097561] *airlines
+    0 : {*}
+ airlinesa[0.10776053215077605] *airlines
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ airlines[0.09977827050997783] *airlines
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ airlines[0.0917960088691796] *airlines
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ airlines[0.0917960088691796] *airlines
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ airlines[0.08980044345898004] *airlines
+    263 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}
+ airlines[0.06784922394678493] *airlines
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+ airlines[0.06784922394678493] *airlines
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ airlinesy[0.06186252771618625] *airlines
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ airlines[0.06186252771618625] *airlines
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ airlines[0.0598669623059867] *airlines
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ airlines[0.053880266075388025] *airlines
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ airlines[0.053880266075388025] *airlines
+    179 : {*}, {*a}, {*em}, {*ie}, {*owi}
+ airlineso[0.053880266075388025] *airlines
+    190 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}
+ airlines[0.053880266075388025] *airlines
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+
+Kapitol :
+ kapitol[0.11374722838137473] *kapitol
+    53 : {*}, {*ach}, {*ami}, {*e}, {*em}, {*i}, {*om}, {*owi}, {*u}, {*ów}
+ kapitoliæ[0.11374722838137473] *kapitol
+    62 : {*iæ}, {*}, {*cie}, {*cie¿}, {*eni}, {*enia}, {*eniach}, {*eniami}, {*enie}, {*eniem}, {*eniom}, {*eniu}, {*eñ}, {*i}, {*icie}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*isz}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*ona}, {*one}, {*onego}, {*onej}, {*onemu}, {*ono}, {*ony}, {*onych}, {*onym}, {*onymi}, {*on¹}, {*¹}, {*ê}, {*¿e}
+ kapitol[0.10975609756097561] *kapitol
+    0 : {*}
+ kapitol[0.10576496674057649] *kapitol
+    99 : {*}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*u}, {*ów}
+ kapitoliæ[0.09778270509977827] *kapitol
+    167 : {*iæ}, {*}, {*cie}, {*cie¿}, {*enia}, {*eniach}, {*eniami}, {*enie}, {*eniem}, {*eniom}, {*eniu}, {*eñ}, {*i}, {*icie}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*isz}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*ono}, {*¹}, {*ê}, {*¿e}
+ kapitol[0.0917960088691796] *kapitol
+    80 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*i}, {*om}, {*owi}, {*u}, {*ów}
+ kapitola[0.0917960088691796] *kapitol
+    81 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ kapitol[0.08381374722838138] *kapitol
+    89 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+ kapitol[0.08381374722838138] *kapitol
+    94 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*i}, {*om}, {*owi}, {*u}
+ kapitol[0.07583148558758315] *kapitol
+    132 : {*}, {*ach}, {*ami}, {*e}, {*em}, {*i}, {*om}, {*owi}, {*u}
+ kapitol[0.06784922394678493] *kapitol
+    291 : {*}, {*a}, {*em}, {*owi}, {*u}
+ kapitol[0.0598669623059867] *kapitol
+    458 : {*}, {*em}, {*owi}, {*u}
+ kapitola[0.05188470066518847] *kapitol
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ kapitol[0.05188470066518847] *kapitol
+    727 : {*}, {*a}, {*e}, {*em}, {*owi}, {*u}
+ kapitola[0.0458980044345898] *kapitol
+    251 : {*a}, {*}, {*ach}, {*ami}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ kapitol[0.037915742793791576] *kapitol
+    365 : {*}, {*a}, {*ach}, {*ami}, {*e}, {*em}, {*i}, {*om}, {*owi}, {*owie}, {*u}, {*ów}
+
+pó³dokumentalnym :
+ pó³dokumentalny[0.247450110864745] *pó³dokumentaln
+    3 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}
+ pó³dokumentalny[0.23348115299334812] *pó³dokumentaln
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ pó³dokumentalnym[0.21951219512195122] *pó³dokumentalnym
+    0 : {*}
+ pó³dokumentalny[0.21751662971175167] *pó³dokumentaln
+    16 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ie}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*ie}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ pó³dokumentalny[0.13370288248337028] *pó³dokumentaln
+    227 : {*y}, {*ego}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}
+ pó³dokumentalnyma[0.12971175166297116] *pó³dokumentalnym
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ pó³dokumentalnym[0.12172949002217295] *pó³dokumentalnym
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ pó³dokumentalnym[0.08381374722838138] *pó³dokumentalnym
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ pó³dokumentalnymo[0.0778270509977827] *pó³dokumentalnym
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ pó³dokumentalnymiæ[0.07583148558758315] *pó³dokumentalnym
+    137 : {*iæ}, {*}, {*cie}, {*cie¿}, {*i}, {*icie}, {*ienia}, {*ieniach}, {*ieniami}, {*ienie}, {*ieniem}, {*ieniom}, {*ieniu}, {*ieñ}, {*ili}, {*iliby}, {*ilibyœcie}, {*ilibyœmy}, {*iliœcie}, {*iliœmy}, {*imy}, {*iono}, {*isz}, {*i¹}, {*iê}, {*i³}, {*i³a}, {*i³aby}, {*i³abym}, {*i³abyœ}, {*i³am}, {*i³aœ}, {*i³by}, {*i³bym}, {*i³byœ}, {*i³em}, {*i³eœ}, {*i³o}, {*i³oby}, {*i³obym}, {*i³obyœ}, {*i³om}, {*i³oœ}, {*i³y}, {*i³yby}, {*i³ybyœcie}, {*i³ybyœmy}, {*i³yœcie}, {*i³yœmy}, {*my}, {*my¿}, {*¿e}
+ pó³dokumentalnym[0.07583148558758315] *pó³dokumentalnym
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ pó³dokumentalnym[0.07583148558758315] *pó³dokumentalnym
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ pó³dokumentalnym[0.06984478935698447] *pó³dokumentalnym
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ pó³dokumentalnymy[0.06784922394678493] *pó³dokumentalnym
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ pó³dokumentalnym[0.06784922394678493] *pó³dokumentalnym
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ pó³dokumentalnymy[0.06186252771618625] *pó³dokumentalnym
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ pó³dokumentalnyma[0.0598669623059867] *pó³dokumentalnym
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ pó³dokumentalnyma[0.053880266075388025] *pó³dokumentalnym
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ pó³dokumentalnym[0.0458980044345898] *pó³dokumentalnym
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+m :
+ m[0.08381374722838138] *m
+    109 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ mo[0.0778270509977827] *m
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ m[0.06984478935698447] *m
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ my[0.06186252771618625] *m
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ ma[0.053880266075388025] *m
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ m[0.0458980044345898] *m
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+World :
+ world[0.10975609756097561] *world
+    0 : {*}
+ worldy[0.06186252771618625] *world
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ world[0.0458980044345898] *world
+    338 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*zi}, {*zie}, {*ów}
+ worlda[0.0458980044345898] *world
+    349 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*ów}, {*¹}, {*ê}
+ world[0.037915742793791576] *world
+    527 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+
+Trade :
+ trade[0.10975609756097561] *trade
+    0 : {*}
+ trady[0.08181818181818182] *trad
+    434 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*o}, {*ych}, {*ym}, {*ymi}, {*zi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*o}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*zi}, {nie*¹}
+
+World :
+ world[0.10975609756097561] *world
+    0 : {*}
+ worldy[0.06186252771618625] *world
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ world[0.0458980044345898] *world
+    338 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*zi}, {*zie}, {*ów}
+ worlda[0.0458980044345898] *world
+    349 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*ów}, {*¹}, {*ê}
+ world[0.037915742793791576] *world
+    527 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+
+Trade :
+ trade[0.10975609756097561] *trade
+    0 : {*}
+ trady[0.08181818181818182] *trad
+    434 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*o}, {*ych}, {*ym}, {*ymi}, {*zi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*o}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*zi}, {nie*¹}
+
+Jaser :
+ jaser[0.12172949002217295] *jaser
+    34 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*ów}
+ jaser[0.11374722838137473] *jaser
+    45 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*ze}, {*zy}, {*ów}
+ jaser[0.10975609756097561] *jaser
+    0 : {*}
+ jaser[0.09977827050997783] *jaser
+    30 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*ze}, {*ów}
+ jaser[0.08381374722838138] *jaser
+    117 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*ze}, {*zy}, {*ów}
+ jaser[0.08381374722838138] *jaser
+    126 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*ze}, {*ów}
+ jasera[0.0778270509977827] *jaser
+    40 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*¹}, {*ê}
+ jaser[0.06784922394678493] *jaser
+    313 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*ze}, {*ów}
+ jasery[0.06186252771618625] *jaser
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ jasera[0.05188470066518847] *jaser
+    719 : {*a}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ jaser[0.05188470066518847] *jaser
+    729 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*zy}, {*ów}
+ jaser[0.05188470066518847] *jaser
+    730 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ze}, {*zy}, {*ów}
+ jasero[0.0458980044345898] *jaser
+    239 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}, {*ze}
+ jaser[0.0458980044345898] *jaser
+    262 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*ów}
+ jasera[0.0458980044345898] *jaser
+    276 : {*a}, {*}, {*ach}, {*ami}, {*om}
+ jasera[0.0458980044345898] *jaser
+    311 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*ów}, {*¹}, {*ê}
+ jaser[0.037915742793791576] *jaser
+    484 : {*}, {*a}, {*em}, {*owi}, {*ze}
+ jaser[0.037915742793791576] *jaser
+    571 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*ze}, {*zy}, {*ów}
+ jaser[0.037915742793791576] *jaser
+    572 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*ze}
+
+Arafat :
+ arafat[0.12971175166297116] *arafa
+    15 : {*t}, {*cie}, {*tach}, {*tami}, {*tem}, {*tom}, {*towi}, {*tu}, {*ty}, {*tów}
+ arafato[0.1197339246119734] *arafa
+    159 : {*to}, {*cie}, {*t}, {*ta}, {*tach}, {*tami}, {*tem}, {*tom}, {*tu}
+ arafat[0.1197339246119734] *arafa
+    206 : {*t}, {*cie}, {*ta}, {*tach}, {*tami}, {*tem}, {*tom}, {*towi}, {*tu}, {*ty}, {*tów}
+ arafata[0.11374722838137473] *arafa
+    44 : {*ta}, {*cie}, {*t}, {*tach}, {*tami}, {*to}, {*tom}, {*ty}, {*t¹}, {*tê}
+ arafat[0.11374722838137473] *arafa
+    58 : {*t}, {*cie}, {*ta}, {*tach}, {*tami}, {*tem}, {*tom}, {*towi}, {*ty}, {*tów}
+ arafata[0.11175166297117517] *arafa
+    295 : {*ta}, {*cie}, {*t}, {*tach}, {*tami}, {*to}, {*tom}, {*ty}, {*tów}, {*t¹}, {*tê}
+ arafat[0.11175166297117517] *arafa
+    316 : {*t}, {*ci}, {*cie}, {*ta}, {*tach}, {*tami}, {*tem}, {*tom}, {*towi}, {*tu}, {*ty}, {*tów}
+ arafat[0.11175166297117517] *arafa
+    343 : {*t}, {*ci}, {*cie}, {*ta}, {*tach}, {*tami}, {*tem}, {*tom}, {*towi}, {*towie}, {*ty}, {*tów}
+ arafat[0.10975609756097561] *arafat
+    0 : {*}
+ arafat[0.09778270509977827] *arafa
+    181 : {*t}, {*cie}, {*ta}, {*tach}, {*tami}, {*tem}, {*tom}, {*towi}, {*towie}, {*ty}, {*tów}
+ arafat[0.08181818181818182] *arafa
+    439 : {*t}, {*cie}, {*tem}, {*towi}, {*tu}
+ arafat[0.08181818181818182] *arafa
+    544 : {*t}, {*cie}, {*ta}, {*tem}, {*towi}
+ arafaty[0.06186252771618625] *arafat
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ arafat[0.06186252771618625] *arafat
+    105 : {*}, {nie*}
+ arafaty[0.0458980044345898] *arafat
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+
+W³adimir :
+ w³adimir[0.14966740576496673] *w³adimir
+    126 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*ze}, {*ów}
+ w³adimir[0.10975609756097561] *w³adimir
+    0 : {*}
+ w³adimir[0.10576496674057649] *w³adimir
+    117 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*ze}, {*zy}, {*ów}
+ w³adimir[0.09977827050997783] *w³adimir
+    30 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*ze}, {*ów}
+ w³adimir[0.09977827050997783] *w³adimir
+    34 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*ów}
+ w³adimira[0.0778270509977827] *w³adimir
+    40 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*¹}, {*ê}
+ w³adimiry[0.06186252771618625] *w³adimir
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ w³adimira[0.05188470066518847] *w³adimir
+    719 : {*a}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ w³adimir[0.05188470066518847] *w³adimir
+    729 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*zy}, {*ów}
+ w³adimir[0.05188470066518847] *w³adimir
+    730 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ze}, {*zy}, {*ów}
+ w³adimiro[0.0458980044345898] *w³adimir
+    239 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}, {*ze}
+ w³adimir[0.0458980044345898] *w³adimir
+    262 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*ów}
+ w³adimira[0.0458980044345898] *w³adimir
+    276 : {*a}, {*}, {*ach}, {*ami}, {*om}
+ w³adimira[0.0458980044345898] *w³adimir
+    311 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*ów}, {*¹}, {*ê}
+ w³adimir[0.037915742793791576] *w³adimir
+    484 : {*}, {*a}, {*em}, {*owi}, {*ze}
+ w³adimir[0.037915742793791576] *w³adimir
+    571 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*ze}, {*zy}, {*ów}
+ w³adimir[0.037915742793791576] *w³adimir
+    572 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*ze}
+
+Prodi :
+ prodi[0.10975609756097561] *prodi
+    0 : {*}
+ prodie[0.07583148558758315] *prodi
+    186 : {*e}, {*}, {*ach}, {*ami}, {*om}
+ prodi[0.06784922394678493] *prodi
+    236 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}
+ prodia[0.06784922394678493] *prodi
+    251 : {*a}, {*}, {*ach}, {*ami}, {*i}, {*o}, {*om}, {*¹}, {*ê}
+ prodi[0.06784922394678493] *prodi
+    337 : {*}, {*ch}, {*ego}, {*emu}, {*m}, {*mi}, {*owie}
+ prodi[0.0598669623059867] *prodi
+    526 : {*}, {*ach}, {*ami}, {*om}
+ prodia[0.05188470066518847] *prodi
+    636 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}
+ prodia[0.05188470066518847] *prodi
+    722 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*u}, {*¹}, {*ê}
+ prodia[0.037915742793791576] *prodi
+    396 : {*a}, {*}, {*ach}, {*ami}, {*e}, {*om}, {*¹}, {*ê}
+
+Gerhard :
+ gerhard[0.1197339246119734] *gerhard
+    160 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*zie}, {*ów}
+ gerhard[0.11374722838137473] *gerhard
+    46 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+ gerharda[0.11374722838137473] *gerhard
+    49 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*¹}, {*ê}
+ gerhard[0.10975609756097561] *gerhard
+    0 : {*}
+ gerhard[0.10576496674057649] *gerhard
+    111 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*zie}, {*ów}
+ gerhard[0.08980044345898004] *gerhard
+    237 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*zi}, {*zie}, {*ów}
+ gerhardy[0.06186252771618625] *gerhard
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ gerhard[0.0458980044345898] *gerhard
+    338 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*zi}, {*zie}, {*ów}
+ gerharda[0.0458980044345898] *gerhard
+    349 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*ów}, {*¹}, {*ê}
+ gerhard[0.037915742793791576] *gerhard
+    527 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+
+Schröder :
+ schröder[0.13370288248337028] *schröd
+    240 : {*er}, {*rach}, {*rami}, {*rem}, {*rom}, {*rowi}, {*ru}, {*ry}, {*rze}, {*rów}
+ schrödro[0.13370288248337028] *schröd
+    282 : {*ro}, {*er}, {*ra}, {*rach}, {*rami}, {*rem}, {*rom}, {*ru}, {*rze}
+ schrödra[0.12572062084257207] *schröd
+    444 : {*ra}, {*er}, {*rach}, {*rami}, {*ro}, {*rom}, {*ry}, {*rze}, {*r¹}, {*rê}
+ schrödra[0.12572062084257207] *schröd
+    445 : {*ra}, {*er}, {*r}, {*rach}, {*rami}, {*ro}, {*rom}, {*ry}, {*rze}, {*r¹}, {*rê}
+ schröder[0.12172949002217295] *schröder
+    34 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*ów}
+ schröder[0.11374722838137473] *schröder
+    45 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*ze}, {*zy}, {*ów}
+ schröder[0.10975609756097561] *schröder
+    0 : {*}
+ schröder[0.09977827050997783] *schröder
+    30 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*ze}, {*ów}
+ schröder[0.08381374722838138] *schröder
+    117 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*ze}, {*zy}, {*ów}
+ schröder[0.08381374722838138] *schröder
+    126 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*ze}, {*ów}
+ schrödera[0.0778270509977827] *schröder
+    40 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*¹}, {*ê}
+ schröder[0.06784922394678493] *schröder
+    313 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*ze}, {*ów}
+ schrödery[0.06186252771618625] *schröder
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ schrödera[0.05188470066518847] *schröder
+    719 : {*a}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ schröder[0.05188470066518847] *schröder
+    729 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*zy}, {*ów}
+ schröder[0.05188470066518847] *schröder
+    730 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ze}, {*zy}, {*ów}
+ schrödero[0.0458980044345898] *schröder
+    239 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}, {*ze}
+ schröder[0.0458980044345898] *schröder
+    262 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*ów}
+ schrödera[0.0458980044345898] *schröder
+    276 : {*a}, {*}, {*ach}, {*ami}, {*om}
+ schrödera[0.0458980044345898] *schröder
+    311 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*ów}, {*¹}, {*ê}
+ schröder[0.037915742793791576] *schröder
+    484 : {*}, {*a}, {*em}, {*owi}, {*ze}
+ schröder[0.037915742793791576] *schröder
+    571 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*ze}, {*zy}, {*ów}
+ schröder[0.037915742793791576] *schröder
+    572 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*ze}
+
+m :
+ m[0.08381374722838138] *m
+    109 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ mo[0.0778270509977827] *m
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ m[0.06984478935698447] *m
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ my[0.06186252771618625] *m
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ ma[0.053880266075388025] *m
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ m[0.0458980044345898] *m
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
+Osamê :
+ osamê[0.10975609756097561] *osamê
+    0 : {*}
+ osama[0.10376940133037695] *osam
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ osama[0.09778270509977827] *osam
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ osama[0.09778270509977827] *osam
+    202 : {*a}, {*ie}, {*o}, {*y}, {*¹}, {*ê}
+ osama[0.08980044345898004] *osam
+    256 : {*a}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+
+bin :
+ bin[0.1376940133037694] *bin
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ bin[0.12172949002217295] *bin
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ bino[0.12172949002217295] *bin
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ bin[0.10975609756097561] *bin
+    0 : {*}
+ bina[0.10776053215077605] *bin
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ biny[0.10576496674057649] *bin
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ bin[0.10576496674057649] *bin
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ bina[0.09778270509977827] *bin
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ bin[0.0917960088691796] *bin
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ bin[0.0917960088691796] *bin
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ bin[0.08381374722838138] *bin
+    105 : {*}, {nie*}
+ bin[0.07583148558758315] *bin
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ bin[0.07583148558758315] *bin
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ biny[0.06784922394678493] *bin
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ bin[0.06784922394678493] *bin
+    263 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}
+ bin[0.06784922394678493] *bin
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ bin[0.06784922394678493] *bin
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+ bin[0.06784922394678493] *bin
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ bin[0.0598669623059867] *bin
+    363 : {*}, {*ach}, {*ami}, {*om}, {*owie}, {*y}, {*ów}
+ bin[0.0598669623059867] *bin
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ bin[0.0598669623059867] *bin
+    528 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ bin[0.053880266075388025] *bin
+    179 : {*}, {*a}, {*em}, {*ie}, {*owi}
+
+Ladena :
+ ladena[0.19556541019955653] *laden
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ laden[0.15764966740576497] *laden
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ ladena[0.14966740576496673] *laden
+    103 : {*a}, {*ach}, {*ami}, {*om}, {*ów}
+ laden[0.14966740576496673] *laden
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ laden[0.14368070953436807] *laden
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ laden[0.14168514412416852] *laden
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ laden[0.13569844789356986] *laden
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ ladenaæ[0.12172949002217295] *ladena
+    29 : {*æ}, {*}, {*cie}, {*j}, {*jcie}, {*jcie¿}, {*jmy}, {*jmy¿}, {*j¹}, {*j¿e}, {*li}, {*liby}, {*libyœcie}, {*libyœmy}, {*liœcie}, {*liœmy}, {*m}, {*my}, {*nia}, {*niach}, {*niami}, {*nie}, {*niem}, {*niom}, {*niu}, {*no}, {*sz}, {*³}, {*³a}, {*³aby}, {*³abym}, {*³abyœ}, {*³am}, {*³aœ}, {*³by}, {*³bym}, {*³byœ}, {*³em}, {*³eœ}, {*³o}, {*³oby}, {*³obym}, {*³obyœ}, {*³om}, {*³oœ}, {*³y}, {*³yby}, {*³ybyœcie}, {*³ybyœmy}, {*³yœcie}, {*³yœmy}, {*ñ}
+ ladena[0.1197339246119734] *laden
+    171 : {*a}, {*o}
+ laden[0.1197339246119734] *laden
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ laden[0.11175166297117517] *laden
+    263 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}
+ laden[0.11175166297117517] *laden
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ laden[0.11175166297117517] *laden
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ ladena[0.10975609756097561] *ladena
+    0 : {*}
+ laden[0.10376940133037695] *laden
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ laden[0.10376940133037695] *laden
+    528 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ laden[0.09778270509977827] *laden
+    179 : {*}, {*a}, {*em}, {*ie}, {*owi}
+ ladena[0.09778270509977827] *laden
+    202 : {*a}, {*ie}, {*o}, {*y}, {*¹}, {*ê}
+
+Mossad :
+ mossad[0.11374722838137473] *mossad
+    46 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+ mossad[0.10975609756097561] *mossad
+    0 : {*}
+ mossada[0.0917960088691796] *mossad
+    49 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*¹}, {*ê}
+ mossado[0.0738359201773836] *mossad
+    607 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}, {*zie}
+ mossad[0.06784922394678493] *mossad
+    221 : {*}, {*ach}, {*ami}, {*om}, {*y}, {*ów}
+ mossady[0.06784922394678493] *mossad
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ mossady[0.06186252771618625] *mossad
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ mossad[0.0458980044345898] *mossad
+    338 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*zi}, {*zie}, {*ów}
+ mossada[0.0458980044345898] *mossad
+    349 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*zie}, {*ów}, {*¹}, {*ê}
+ mossad[0.037915742793791576] *mossad
+    527 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*zie}, {*ów}
+
+D¿azira :
+ d¿azir[0.14966740576496673] *d¿azir
+    117 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*y}, {*ze}, {*zy}, {*ów}
+ d¿azir[0.14368070953436807] *d¿azir
+    30 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*y}, {*ze}, {*ów}
+ d¿azira[0.12172949002217295] *d¿azir
+    40 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*¹}, {*ê}
+ d¿azira[0.10975609756097561] *d¿azira
+    0 : {*}
+ d¿azira[0.09578713968957872] *d¿azir
+    719 : {*a}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ d¿azir[0.09578713968957872] *d¿azir
+    729 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*zy}, {*ów}
+ d¿azir[0.09578713968957872] *d¿azir
+    730 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ze}, {*zy}, {*ów}
+ d¿aziro[0.08980044345898004] *d¿azir
+    239 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*u}, {*ze}
+ d¿azir[0.08980044345898004] *d¿azir
+    262 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ze}, {*ów}
+ d¿azira[0.08980044345898004] *d¿azir
+    276 : {*a}, {*}, {*ach}, {*ami}, {*om}
+ d¿azira[0.08980044345898004] *d¿azir
+    311 : {*a}, {*}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*ów}, {*¹}, {*ê}
+ d¿azira[0.08980044345898004] *d¿azir
+    348 : {*a}, {*o}, {*y}, {*ze}, {*¹}, {*ê}
+ d¿aziry[0.08181818181818182] *d¿azir
+    352 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*o}, {*ych}, {*ym}, {*ymi}, {*zy}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*o}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*zy}, {nie*¹}
+ d¿azira[0.08181818181818182] *d¿azir
+    482 : {*a}, {*ach}, {*ami}, {*o}, {*om}, {*owie}, {*y}, {*ze}, {*ów}, {*¹}, {*ê}
+ d¿azir[0.08181818181818182] *d¿azir
+    484 : {*}, {*a}, {*em}, {*owi}, {*ze}
+ d¿azira[0.08181818181818182] *d¿azir
+    523 : {*a}, {*ach}, {*ami}, {*o}, {*om}, {*y}, {*ze}, {*¹}, {*ê}
+ d¿azir[0.08181818181818182] *d¿azir
+    571 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*ze}, {*zy}, {*ów}
+ d¿azir[0.08181818181818182] *d¿azir
+    572 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*ze}
+
+Osamy :
+ osam[0.18159645232815966] *osam
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ osamy[0.14567627494456764] *osam
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ osam[0.13569844789356986] *osam
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ osamy[0.13170731707317074] *osamy
+    0 : {*}
+ osam[0.12771618625277162] *osam
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ osam[0.1197339246119734] *osam
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ osam[0.11374722838137473] *osam
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ osamy[0.11374722838137473] *osam
+    66 : {*y}, {*ach}, {*ami}, {*om}, {*ów}
+ osamy[0.11175166297117517] *osam
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ osam[0.11175166297117517] *osam
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ osamy[0.10576496674057649] *osam
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ osama[0.10376940133037695] *osam
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ osama[0.09778270509977827] *osam
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ osama[0.09778270509977827] *osam
+    202 : {*a}, {*ie}, {*o}, {*y}, {*¹}, {*ê}
+ osama[0.08980044345898004] *osam
+    256 : {*a}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+
+bin :
+ bin[0.1376940133037694] *bin
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ bin[0.12172949002217295] *bin
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ bino[0.12172949002217295] *bin
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ bin[0.10975609756097561] *bin
+    0 : {*}
+ bina[0.10776053215077605] *bin
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ biny[0.10576496674057649] *bin
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ bin[0.10576496674057649] *bin
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ bina[0.09778270509977827] *bin
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ bin[0.0917960088691796] *bin
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ bin[0.0917960088691796] *bin
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ bin[0.08381374722838138] *bin
+    105 : {*}, {nie*}
+ bin[0.07583148558758315] *bin
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ bin[0.07583148558758315] *bin
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ biny[0.06784922394678493] *bin
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ bin[0.06784922394678493] *bin
+    263 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}
+ bin[0.06784922394678493] *bin
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ bin[0.06784922394678493] *bin
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+ bin[0.06784922394678493] *bin
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ bin[0.0598669623059867] *bin
+    363 : {*}, {*ach}, {*ami}, {*om}, {*owie}, {*y}, {*ów}
+ bin[0.0598669623059867] *bin
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ bin[0.0598669623059867] *bin
+    528 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ bin[0.053880266075388025] *bin
+    179 : {*}, {*a}, {*em}, {*ie}, {*owi}
+
+Ladena :
+ ladena[0.19556541019955653] *laden
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ laden[0.15764966740576497] *laden
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ ladena[0.14966740576496673] *laden
+    103 : {*a}, {*ach}, {*ami}, {*om}, {*ów}
+ laden[0.14966740576496673] *laden
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ laden[0.14368070953436807] *laden
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ laden[0.14168514412416852] *laden
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ laden[0.13569844789356986] *laden
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ ladenaæ[0.12172949002217295] *ladena
+    29 : {*æ}, {*}, {*cie}, {*j}, {*jcie}, {*jcie¿}, {*jmy}, {*jmy¿}, {*j¹}, {*j¿e}, {*li}, {*liby}, {*libyœcie}, {*libyœmy}, {*liœcie}, {*liœmy}, {*m}, {*my}, {*nia}, {*niach}, {*niami}, {*nie}, {*niem}, {*niom}, {*niu}, {*no}, {*sz}, {*³}, {*³a}, {*³aby}, {*³abym}, {*³abyœ}, {*³am}, {*³aœ}, {*³by}, {*³bym}, {*³byœ}, {*³em}, {*³eœ}, {*³o}, {*³oby}, {*³obym}, {*³obyœ}, {*³om}, {*³oœ}, {*³y}, {*³yby}, {*³ybyœcie}, {*³ybyœmy}, {*³yœcie}, {*³yœmy}, {*ñ}
+ ladena[0.1197339246119734] *laden
+    171 : {*a}, {*o}
+ laden[0.1197339246119734] *laden
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ laden[0.11175166297117517] *laden
+    263 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}
+ laden[0.11175166297117517] *laden
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ laden[0.11175166297117517] *laden
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ ladena[0.10975609756097561] *ladena
+    0 : {*}
+ laden[0.10376940133037695] *laden
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ laden[0.10376940133037695] *laden
+    528 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ laden[0.09778270509977827] *laden
+    179 : {*}, {*a}, {*em}, {*ie}, {*owi}
+ ladena[0.09778270509977827] *laden
+    202 : {*a}, {*ie}, {*o}, {*y}, {*¹}, {*ê}
+
+Osama :
+ osamy[0.14567627494456764] *osam
+    2 : {*y}, {*a}, {*e}, {*ego}, {*ej}, {*emu}, {*i}, {*ych}, {*ym}, {*ymi}, {*¹}, {nie*a}, {nie*e}, {nie*ego}, {nie*ej}, {nie*emu}, {nie*i}, {nie*y}, {nie*ych}, {nie*ym}, {nie*ymi}, {nie*¹}
+ osam[0.13569844789356986] *osam
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ osam[0.12771618625277162] *osam
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ osamo[0.12172949002217295] *osam
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ osamaæ[0.12172949002217295] *osama
+    29 : {*æ}, {*}, {*cie}, {*j}, {*jcie}, {*jcie¿}, {*jmy}, {*jmy¿}, {*j¹}, {*j¿e}, {*li}, {*liby}, {*libyœcie}, {*libyœmy}, {*liœcie}, {*liœmy}, {*m}, {*my}, {*nia}, {*niach}, {*niami}, {*nie}, {*niem}, {*niom}, {*niu}, {*no}, {*sz}, {*³}, {*³a}, {*³aby}, {*³abym}, {*³abyœ}, {*³am}, {*³aœ}, {*³by}, {*³bym}, {*³byœ}, {*³em}, {*³eœ}, {*³o}, {*³oby}, {*³obym}, {*³obyœ}, {*³om}, {*³oœ}, {*³y}, {*³yby}, {*³ybyœcie}, {*³ybyœmy}, {*³yœcie}, {*³yœmy}, {*ñ}
+ osam[0.1197339246119734] *osam
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ osam[0.1197339246119734] *osam
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ osam[0.11374722838137473] *osam
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ osam[0.11175166297117517] *osam
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ osama[0.10975609756097561] *osama
+    0 : {*}
+ osama[0.10376940133037695] *osam
+    420 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+ osama[0.09778270509977827] *osam
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ osama[0.09778270509977827] *osam
+    202 : {*a}, {*ie}, {*o}, {*y}, {*¹}, {*ê}
+ osama[0.08980044345898004] *osam
+    256 : {*a}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*owie}, {*y}, {*ów}, {*¹}, {*ê}
+
+bin :
+ bin[0.1376940133037694] *bin
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ bin[0.12172949002217295] *bin
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ bino[0.12172949002217295] *bin
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ bin[0.10975609756097561] *bin
+    0 : {*}
+ bina[0.10776053215077605] *bin
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ biny[0.10576496674057649] *bin
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ bin[0.10576496674057649] *bin
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ bina[0.09778270509977827] *bin
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ bin[0.0917960088691796] *bin
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ bin[0.0917960088691796] *bin
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ bin[0.08381374722838138] *bin
+    105 : {*}, {nie*}
+ bin[0.07583148558758315] *bin
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ bin[0.07583148558758315] *bin
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ biny[0.06784922394678493] *bin
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ bin[0.06784922394678493] *bin
+    263 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}
+ bin[0.06784922394678493] *bin
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ bin[0.06784922394678493] *bin
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+ bin[0.06784922394678493] *bin
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ bin[0.0598669623059867] *bin
+    363 : {*}, {*ach}, {*ami}, {*om}, {*owie}, {*y}, {*ów}
+ bin[0.0598669623059867] *bin
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ bin[0.0598669623059867] *bin
+    528 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ bin[0.053880266075388025] *bin
+    179 : {*}, {*a}, {*em}, {*ie}, {*owi}
+
+Laden :
+ ladena[0.1516629711751663] *laden
+    11 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*¹}, {*ê}
+ laden[0.1376940133037694] *laden
+    7 : {*}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ ladno[0.12572062084257207] *lad
+    469 : {*no}, {*en}, {*na}, {*nach}, {*nami}, {*nem}, {*nie}, {*nom}, {*nu}
+ laden[0.11374722838137473] *laden
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ laden[0.10975609756097561] *laden
+    0 : {*}
+ ladeny[0.10576496674057649] *laden
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ laden[0.10576496674057649] *laden
+    127 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ laden[0.09977827050997783] *laden
+    24 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ laden[0.09778270509977827] *laden
+    148 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ laden[0.0917960088691796] *laden
+    56 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*y}, {*ów}
+ laden[0.08381374722838138] *laden
+    105 : {*}, {nie*}
+ laden[0.07583148558758315] *laden
+    207 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*ów}
+ ladeny[0.06784922394678493] *laden
+    242 : {*y}, {*}, {*ach}, {*ami}, {*om}, {*ów}
+ laden[0.06784922394678493] *laden
+    263 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}
+ laden[0.06784922394678493] *laden
+    302 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ laden[0.06784922394678493] *laden
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+ laden[0.06784922394678493] *laden
+    339 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ laden[0.0598669623059867] *laden
+    363 : {*}, {*ach}, {*ami}, {*om}, {*owie}, {*y}, {*ów}
+ laden[0.0598669623059867] *laden
+    364 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*ów}
+ laden[0.0598669623059867] *laden
+    528 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*owie}, {*u}, {*y}, {*ów}
+ laden[0.053880266075388025] *laden
+    179 : {*}, {*a}, {*em}, {*ie}, {*owi}
+
+m :
+ m[0.08381374722838138] *m
+    109 : {*}, {*ach}, {*ami}, {*em}, {*om}, {*owi}, {*u}, {*y}, {*ów}
+ mo[0.0778270509977827] *m
+    19 : {*o}, {*}, {*a}, {*ach}, {*ami}, {*em}, {*ie}, {*om}, {*u}
+ m[0.06984478935698447] *m
+    65 : {*}, {*a}, {*ach}, {*ami}, {*em}, {*i}, {*ie}, {*om}, {*owi}, {*y}, {*ów}
+ my[0.06186252771618625] *m
+    104 : {*y}, {*}, {*ach}, {*ami}, {*om}
+ ma[0.053880266075388025] *m
+    187 : {*a}, {*}, {*ach}, {*ami}, {*ie}, {*o}, {*om}, {*y}, {*ów}, {*¹}, {*ê}
+ m[0.0458980044345898] *m
+    328 : {*}, {*em}, {*ie}, {*owi}, {*u}
+
