@@ -6,7 +6,6 @@ target
 *.bak
 *.log
 wikipedia
-dictionaries
 freq
 tmp
 /nbproject/

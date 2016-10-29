@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary indentification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/alt_2007_09_14.dtd
+
+--><!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE ts:tagset SYSTEM "alt_2007_09_14.dtd">
+
+    <ts:tagset>
+    ...
+    </ts:tagset>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ts:tagset (ts:category|ts:language)*>
+<!ATTLIST ts:tagset
+    xmlns:ts CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ts:language (ts:symbol|ts:name)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ts:symbol (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ts:name (#PCDATA)>
+<!ATTLIST ts:name
+    language CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ts:category (ts:tags|ts:description|ts:name)*>
+<!ATTLIST ts:category
+    id CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ts:description (#PCDATA)>
+<!ATTLIST ts:description
+    language CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ts:tags (ts:tag)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ts:tag (ts:symbol|ts:examples|ts:description|ts:name)*>
+<!ATTLIST ts:tag
+    id CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ts:examples (ts:example)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ts:example (#PCDATA)>
+<!ATTLIST ts:example
+    language CDATA #IMPLIED
+  >

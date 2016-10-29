@@ -1,0 +1,330 @@
+//przyimki
+z ze
+do
+na
+bez
+za
+pod
+u
+w we
+nad
+od
+po
+przez
+o
+dla
+przed przede
+sprzed zprzed
+zza
+spod zpod
+znad
+poprzez
+obok
+zna
+między
+pomiędzy
+ku
+oprócz
+koło
+wśród
+przeciw
+wbrew
+ponad
+sponad zponad
+pośród
+poza
+spoza zpoza
+spomiędzy zpomiędzy
+spośród zpośród
+pomimo
+około
+naokoło
+powyżej
+poniżej
+podczas
+wewnątrz
+zewnątrz
+
+
+
+// czasowniki
+być jestem jesteś jest jesteśmy jesteście są byłem byłeś był była było byliśmy byliście byli były będę będziesz będzie będziemy będziecie będą bądź bądźmy bądźcie byłbym byłabym byłobym bylibyście byłybyście byliby byłyby byłoby byłbyś byłby byłaby byliby byłyby będący będąc
+mieć mam masz ma mamy macie mają miałem miałam miałeś miałaś miał miała miało mieliśmy mieliście mieli miały miałbym miałabym miałobym miałbyś miałabyś miałobyś miałby miałaby miałoby mielibyśmy miałybyśmy mielibyście miałybyście mieliby miałyby miej miejmy miejcie mający mając
+
+// partykuły i kubiki
+nie
+ani
+razy
+tylko
+by
+czy
+niech niechaj
+bodaj
+no
+oby
+te
+jej
+ojej
+jejku
+dlaczego
+czemu
+
+
+// partykuła i zaimek
+tak
+
+// zaimki osobowe
+ja mnie mi mną mnie
+ty ciebie cię tobie ci tobą tobie
+on ona ono jego go niego jej niej jemu mu niemu jemu mu niemu ją nią je nie nim nią niej oni one ich nich im nim je nie nimi
+my nas nam nami 
+wy was wam wami
+
+// zaimki dzierżawcze
+mój mojego mego mojemu memu mego moim mym moja ma mojej mej moją mą moje me mojego mego mojemu memu moim mym moi moich mych moim mym moimi mymi moje me moich mych moim mym moimi mymi
+twój twojego twego twojemu twemu twoim twym twoja twa twojej twej twoją twą twoje twe twojego twego twojemu twemu twoim twym twoi twoich twych twoim twym twoimi twymi twoje twe twoich twych twoim twym twoimi twymi
+swój swojego swego swojemu swemu swoim swym swoja swa swojej swej swoją swą swoje swe swojego swego swojemu swemu swoim swym swoi swoich swych swoim swym swoimi swymi swoje swe swoich swych swoim swym swoimi swymi
+nasz naszego naszemu naszym nasza naszej naszą nasze naszego naszemu naszym nasi naszych naszym naszymi nasze naszych naszym naszymi 
+wasz waszego waszemu waszym wasza waszej waszą wasze waszego waszemu waszym wasi waszych waszym waszymi wasze waszych waszym waszymi
+niczyj niczyjego niczyjemu niczyim niczyja niczyjej niczyją niczyje niczyjego niczyjemu niczyim niczyi niczyich niczyim niczyimi niczyje niczyich niczyim niczyimi
+czyjś czyjegoś czyjemuś czyimś czyjaś czyjejś czyjąś czyjeś czyjegoś czyjemuś czyimś czyiś czyichś czyimś czyimiś czyjeś czyichś czyimś czyimiś
+czyjkolwiek czyjegokolwiek czyjemukolwiek czyimkolwiek czyjakolwiek czyjejkolwiek czyjąkolwiek czyjekolwiek czyjegokolwiek czyjemukolwiek czyimkolwiek czyikolwiek czyichkolwiek czyimkolwiek czyimikolwiek czyjekolwiek czyichkolwiek czyimkolwiek czyimikolwiek
+
+// zaimki zwrotne
+się siebie sobie sie
+
+// zaimki określone
+ten tego temu tym ta tej tę tą to tego temu tym ci tych tym tymi te tych tym te tymi 
+tamten tamtego tamtemu tamtym tamta tamtej tamtę tamtą tamto tamtego tamtemu tamtym tamci tamtych tamtym tamtymi tamte tamtych tamtym tamte tamtymi 
+ów owego owemu owym owa owej ową owej owo owego owemu owym owi owych owym owymi owe owych owym owe owymi
+taki takiego takiemu takim taka takiej taką takie takiego takiemu takim tacy takich takim takimi takie takich takim takimi
+sam samego samemu samym sama samej samą samo sami same samych samym samymi
+tu
+tam
+stąd
+stamtąd
+tędy
+wtedy
+
+// zaimki pytające
+kto kogo komu kim 
+co czego czemu czym 
+który którego któremu którym która której którą które którzy które których którymi
+jaki jakiego jakiemu jakiego jakim jaka jakiej jaką jakie jacy jakie jakich jakimi
+czyj czyjego czyjemu czyim czyja czyjej czyją czyje czyjego czyjemu czyim czyi czyich czyim czyimi czyje czyich czyim czyimi
+kiedy
+gdzie
+jak
+którędy
+skąd
+dokąd
+ile
+
+// zaimki nieokreślone
+ktoś kogoś komuś kimś 
+ktokolwiek kogokolwiek komukolwiek kimkolwiek ktośkolwiek kogośkolwiek komuśkolwiek kimśkolwiek 
+coś czegoś czemuś czymś 
+cokolwiek czegokolwiek czemukolwiek czymkolwiek cośkolwiek czegośkolwiek czemuśkolwiek czymśkolwiek 
+któryś któregoś któremuś którymś któraś którejś którąś któreś którzyś któreś którychś którymiś
+którykolwiek któregokolwiek któremukolwiek którymkolwiek którakolwiek którejkolwiek którąkolwiek którekolwiek którzykolwiek którekolwiek którychkolwiek którymikolwiek któryśkolwiek któregośkolwiek któremuśkolwiek którymśkolwiek któraśkolwiek którejśkolwiek którąśkolwiek któreśkolwiek którzyśkolwiek któreśkolwiek którychśkolwiek którymiśkolwiek
+jakiś jakiegoś jakiemuś jakiegoś jakimś jakaś jakiejś jakąś jakieś jacyś jakieś jakichś jakimiś
+jakikolwiek jakiegokolwiek jakiemukolwiek jakiegokolwiek jakimkolwiek jakakolwiek jakiejkolwiek jakąkolwiek jakiekolwiek jacykolwiek jakiekolwiek jakichkolwiek jakimikolwiek jakiśkolwiek jakiegośkolwiek jakiemuśkolwiek jakiegośkolwiek jakimśkolwiek jakaśkolwiek jakiejśkolwiek jakąśkolwiek jakieśkolwiek jacyśkolwiek jakieśkolwiek jakichśkolwiek jakimiśkolwiek
+kiedyś
+gdzieś
+jakoś
+którędyś
+skądś
+dokądś
+ileś
+kiedykolwiek kiedyśkolwiek
+gdziekolwiek gdzieśkolwiek
+jakkolwiek jakośkolwiek
+którędykolwiek którędyśkolwiek
+skądkolwiek skądśkolwiek
+dokądkolwiek dokądśkolwiek
+ilekolwiek ileśkolwiek
+
+// zaimki upowszechniające
+każdy każdego każdemu każdym każda każdej każdą każde każdyś każdegoś każdemuś każdymś każdaś każdejś każdąś każdeś
+wszystek wszystka wszystko wszystkiego wszystkiemu wszystkim wszystkoś wszystkiego wszystkiemu wszystkim wszyscy wszystkie wszystkich wszystkim wszystkimi wszyscyś wszystkieś wszystkichś wszystkimś wszystkimiś 
+zawsze zawsześ
+wszędzie wszędzieś
+
+// zaimki przeczące
+nikt nikogo nikomu nikim niktkolwiek nikogokolwiek nikomukolwiek nikimkolwiek
+nic niczego niczemu niczym nickolwiek niczegokolwiek niczemukolwiek niczymkolwiek
+żaden żadnego żadnemu żadnym żadna żadnej żadną żadnej żadne żadni żadne żadnych żadnym żadnymi
+nigdzie nigdziekolwiek
+nigdy nigdykolwiek
+znikąd znikądkolwiek
+donikąd donikądkolwiek
+nijak nijakkolwiek
+
+// spójniki współrzędne (parataktyczne): 
+a
+i
+też
+także
+albo
+albowiem
+czyli
+tudzież
+jak
+oto
+mianowicie
+oraz
+
+// spójniki rozłączne 
+// albo - powtórzenie
+czy
+lub
+bądź
+
+
+// spójniki przeciwstawne 
+// a - powtórzenie
+aczkolwiek
+ale
+jednak
+jednakże
+lecz
+wszakże
+zaś
+natomiast
+wszelako
+atoli
+aliści
+
+
+// spójniki wynikowe 
+więc
+toteż
+zatem
+dlatego
+przeto
+tedy
+
+// spójniki podrzędne (hipotaktyczne)
+choć
+żeby
+że
+jeżeli
+ponieważ
+
+
+// liczebniki
+// liczebnik raz - jest również rzeczownikiem w l.poj. - zdefiniowany w słowniku źródłowym
+zero zer zera zerach zerami zerem zerom zeru zerze 
+jeden jedna jedne jednego jednej jednemu jedni jedno jednych jednym jednymi jedną 
+dwa dwaj dwóch dwom dwoma dwu dwie dwóm dwiema
+trzy trzech trzem trzema trzej
+cztery czterech czterem czterema czterej
+pięć pięciu pięcioma 
+sześć sześciu sześcioma
+siedem siedmiu siedmioma
+ośem ośmu ośmioma
+dziewięć dziewięciu dziewięcioma
+dziesięć dziesięciu dziesięcioma
+jedenaście jedenasta jedenaste jedenastego jedenastej jedenastemu jedynaści jedenastych jedenastym jedenastymi jedenastą jedynaście jedynasta jedynaste jedynastego jedynastej jedynastemu jedynaści jedynastych jedynastym jedynastymi jedynastą
+dwanaście dwunastu dwunastoma 
+trzynaście trzynastu trzynastoma
+czternaście czernastu czternastoma
+piętnaście piętnastu piętnastoma
+szesnaście szesnastu szesnastoma 
+siedemnaście sidemnastu siedemnastoma
+osiemnaście osiemnastu osiemnastoma
+dziewiętnaście dziewiętnastu dziewiętnastoma
+dwadzieścia dwudziestu dwudziestoma
+trzydzieści trzydziestu trzydziestoma
+czterdzieści czterdziestu czerdziestoma
+pięćdziesiąt pięćdziesięciu pięćdziesięcioma
+sześćdziesiąt sześćdziesięciu sześćdziesięcioma
+siedemdziesiąt siedemdziesięciu siedemdziesięcioma
+osiemdziesiąt osiemdziesięciu osiemdziesięcioma
+dziewięćdziesiąt dziewięćdziesięciu dziewięćdziesięcioma
+sto stu stoma
+dwieście dwustu dwustoma
+trzysta trzystu trzystoma
+czterysta czterystu czterystoma
+pięćset pięćuset
+sześćset sześciuset
+siedemset siedmiset
+osiemset ośmiuset
+dziewięćset dziewięciuset
+// liczbniki tysiąc, milion, miliard, bilion, biliard, trylion, tryliard zdefiniowane w słowniku źródłowym
+// liczebniki porządkowe zdefiniowane w słowniku źródłowym
+// liczebniki wielokrotne zdefiniowane w słowniku źródłowym
+// liczebniki wielorakie zdefiniowane w słowniku źródłowym
+// liczebniki mnożne zdefiniowane w słowniku źródłowym
+
+// liczebniki ułamkowe
+ćwierć ćwierci ćwiercią ćwierci ćwierciom ćwierciami ćwierciach
+pół
+połowa połowach połowami połowie połowo połowom połowy połową połowę połów 
+półtora półtorej 
+
+// liczebniki nieokreślone
+niewiele niewielu niewieloma
+kilka kilku kilkoma
+kilkanaście kilkanastu kilkunastu kilkanastoma kilkunastoma
+kilkadziesiąt kilkadziesięciu kilkudziesięciu kilkadziesięcioma kilkudziesięcioma
+kilkaset kilkuset kilkusetoma 
+wiele wielu wieloma
+trochę
+dużo więcej najwięcej
+mało mniej najmniej
+
+// liczebniki zbiorowe
+dwoje dwojga dwojgu dwojgiem
+troje trojga trojgu trojgiem
+czworo czworga czworgu czworgiem
+pięcioro pięciorga pięciorgu pięciorgiem
+sześcioro sześciorga sześciorgu sześciorgiem
+siedmioro siedmiorga siedmiorgu siedmiorgiem
+ośmioro ośmiorga ośmiorgu ośmiorgiem
+dziewięcioro dziewięciorga dziewięciorgu dziewięciorgiem
+dziesięcioro dziesięciorga dziesięciorgu dzisięciorgiem
+jedenaścioro jedenaściorga jedenaściorgu jedenaściorgiem
+jedynaścioro jedynaściorga jedynaściorgu jedynaściorgiem
+dwanaścioro dwanaściorga dwanaściorgu dwanaściorgiem
+trzynaścioro trzynaściorga trzynaściorgu trzynaściorgiem
+czernaścioro czernaściorga czernaściorgu czernaściorgiem
+piętnaścioro piętnaściorga piętnaściorgu piętnaściorgiem
+szesnaścioro szesnaściorga szesnaściorgu szesnaściorgiem
+sidemnaścioro sidemnaściorga sidemnaściorgu sidemnaściorgiem
+osiemnaścioro osiemnaściorga osiemnaściorgu osiemnaściorgiem
+dziewiętnaścioro dziewiętnaściorga dziewiętnaściorgu dziewiętnaściorgiem
+dwadzieścioro dwadzieściorga dwadzieściorgu dwadzieściorgiem
+trzydzieścioro trzydzieściorga trzydzieściorgu trzydzieściorgiem
+czterdzieścioro czterdzieściorga czterdzieściorgu czterdzieściorgiem
+pięćdziesięcioro pięćdziesięciorga pięćdziesięciorgu pięćdziesięciorgiem
+sześćdziesięcioro sześćdziesięciorga sześćdziesięciorgu sześćdziesięciorgiem
+siedemdziesięcioro siedemdziesięciorga siedemdziesięciorgu siedemdziesięciorgiem
+osiemdziesięcioro osiemdziesięciorga osiemdziesięciorgu osiemdziesięciorgiem
+dziewięćdziesięcioro dziewięćdziesięciorga dziewięćdziesięciorgu dziewięćdziesięciorgiem
+
+
+// usuwane przez elementy powyższe leksemy
+bez bzach bzami bzem bzie bzom bzowi bzu bzy bzów 
+poza pozach pozami pozie pozo pozom pozy pozą pozę 
+koło kole koła kołach kołami kołem kołom kołu kół 
+miał miale miałach miałami miałem miałom miałowi miału miały miałów 
+jak jaka jakach jakami jaki jakiem jakom jakowi jaku jaków 
+
+
+
+// brakujące lub niepoprawne formy
+gałąź gełęzi gałęzią gałęzie gałęziom gałęziami gałęziach
+pan pana panu panem panie panowie panów panom panami panach
+unia unii unię unią unio unie uni uniom uniami uniach
+// google maps
+google googlach googlom googlami googlach
+maps
+świat świata światu światem świecie światy światów światom światami światach
+dziecko dziecka dziecku dzieckiem dziecku dzieci dzieciom dziećmi dzieciach
+człowiek człowieka człowiekowi człowiekiem człowieku człowieku ludzie ludzi luziom ludźmi ludziach 
+dom domu domowi domem domie domy domów domom domami domach
+książę księcia księciowi księciem księciu książęta księżąt książętom książętami książętach
+arcyksiążę arcyksięcia arcyksięciowi arcyksięciem arcyksięciu arcyksiążęta arcyksiężąt arcyksiążętom arcyksiążętami arcyksiążętach
+
+
